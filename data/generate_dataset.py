@@ -1,8 +1,3 @@
-"""
-Lahore Housing Dataset Generator
-Generates a realistic synthetic dataset based on Lahore's real housing market patterns.
-Areas, prices, and features are calibrated to Lahore's actual neighborhoods.
-"""
 
 import numpy as np
 import pandas as pd
