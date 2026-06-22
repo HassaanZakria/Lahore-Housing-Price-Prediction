@@ -1,0 +1,2001 @@
+area,size_marla,bedrooms,bathrooms,property_age,has_garage,has_servant_quarter,has_basement,corner_plot,near_park,gated_society,property_type,price_lakhs
+Johar Town,7.1,4,4,8,0,0,0,0,1,0,House,701.74
+Township,7.3,4,4,18,0,0,0,1,1,0,House,458.99
+Wapda Town,20.3,5,4,12,0,1,0,0,0,0,Upper Portion,1959.17
+Valencia,6.7,4,3,1,0,1,1,0,0,1,House,1043.12
+DHA Phase 7-9,6.6,4,3,2,0,0,1,0,0,1,Upper Portion,775.43
+DHA Phase 7-9,13.8,5,5,2,0,1,0,1,1,1,House,2081.58
+DHA Phase 4-6,9.9,4,3,3,0,0,0,0,1,1,Upper Portion,1880.95
+Faisal Town,13.9,5,5,12,1,1,1,0,1,0,House,976.76
+Valencia,5.2,4,4,8,0,1,1,0,0,1,House,690.68
+Iqbal Town,9.6,3,2,2,0,1,1,0,1,0,House,768.06
+DHA Phase 1-3,4.5,3,3,0,0,0,0,0,0,1,Flat,919.48
+Shahdara,4.9,3,2,2,0,0,0,0,0,0,Lower Portion,194.83
+Allama Iqbal Town,20.2,7,7,35,1,1,0,0,0,0,House,1484.05
+Gulberg I-II,4.7,3,2,8,1,1,1,0,1,0,Upper Portion,800.65
+DHA Phase 7-9,10.1,4,3,25,1,1,1,1,1,1,Upper Portion,1531.74
+DHA Phase 7-9,9.8,4,3,25,0,0,0,0,0,1,House,1344.23
+Gulberg III-V,7.4,3,2,8,1,1,0,0,0,0,Upper Portion,1102.95
+Bahria Town,20.4,7,7,18,1,1,0,0,0,1,Upper Portion,2387.88
+Johar Town,4.8,3,2,2,0,0,1,0,0,0,House,554.37
+Gulberg III-V,13.7,4,4,18,1,1,0,0,0,0,Upper Portion,1921.04
+Valencia,39.9,5,4,3,1,1,0,0,1,1,House,5770.16
+DHA Phase 7-9,9.7,4,3,25,1,0,0,1,1,1,House,1156.58
+Gulberg III-V,20.2,7,6,1,1,1,0,0,0,0,House,2374.03
+Model Town,5.3,3,3,25,1,0,1,0,0,0,Lower Portion,531.54
+Bahria Town,10.2,5,4,1,1,1,0,0,0,1,House,928.78
+Allama Iqbal Town,7.3,3,2,25,1,0,0,0,0,0,House,578.42
+Gulberg I-II,13.9,5,5,5,0,1,0,0,0,0,Upper Portion,2543.97
+Bahria Town,39.7,6,5,18,1,1,0,0,0,1,House,5132.76
+Valencia,7.2,4,4,8,0,1,1,1,1,1,House,859.09
+DHA Phase 1-3,13.9,5,4,5,1,1,0,1,0,1,House,2892.62
+Valencia,7.2,3,2,12,0,0,0,0,0,1,Lower Portion,840.73
+DHA Phase 7-9,9.8,4,3,35,0,0,0,0,0,1,House,1320.56
+DHA Phase 4-6,9.6,3,3,0,1,0,1,1,0,1,Upper Portion,1780.27
+Township,40.5,6,5,35,1,1,1,0,0,0,House,2093.73
+Shahdara,13.7,5,4,12,1,1,1,1,0,0,House,961.04
+Allama Iqbal Town,7.5,3,2,25,0,0,1,0,0,0,Upper Portion,605.34
+Gulberg III-V,5.5,3,3,5,1,0,0,0,1,0,Upper Portion,759.96
+DHA Phase 4-6,7.3,4,4,8,1,0,1,0,0,1,House,1121.37
+Iqbal Town,7.2,3,3,25,0,0,0,1,0,0,Upper Portion,595.13
+Johar Town,7.1,4,4,8,0,1,1,0,0,0,Upper Portion,746.05
+DHA Phase 4-6,20.4,6,6,12,1,0,0,0,0,1,House,3851.12
+Bahria Town,9.8,3,3,0,0,0,0,0,0,1,Lower Portion,946.36
+DHA Phase 1-3,10.0,3,2,2,1,1,0,0,0,1,Upper Portion,1934.19
+Samanabad,5.1,4,3,12,0,0,0,0,1,0,Flat,261.68
+Gulberg III-V,19.9,5,4,18,1,1,0,0,1,0,House,3070.06
+Iqbal Town,13.9,5,4,12,1,1,0,0,1,0,House,1239.67
+Model Town,4.8,2,2,1,0,0,0,0,1,0,House,818.85
+Bahria Town,14.1,4,4,8,0,1,0,0,0,1,House,1330.94
+Lake City,10.4,5,5,5,1,1,0,0,0,1,House,1384.51
+DHA Phase 7-9,4.7,3,3,8,1,0,1,0,0,1,House,559.42
+Shahdara,10.4,5,4,25,1,1,0,0,0,0,House,439.09
+Allama Iqbal Town,10.2,4,4,25,1,1,1,0,0,0,House,629.43
+Township,7.3,4,3,1,1,0,0,0,0,0,Lower Portion,427.58
+Samanabad,20.1,6,6,25,1,0,0,0,0,0,House,1055.72
+Valencia,20.3,6,5,8,1,1,0,1,0,1,House,2106.99
+Samanabad,13.5,4,4,18,1,0,0,0,1,0,House,863.2
+DHA Phase 4-6,10.3,4,3,1,1,1,0,0,0,1,House,1873.59
+DHA Phase 7-9,9.5,3,3,18,0,1,0,0,0,1,House,1298.4
+DHA Phase 1-3,14.4,4,3,3,1,1,0,0,0,1,House,2663.58
+Model Town,10.5,4,4,8,1,0,0,1,1,0,House,1775.49
+Johar Town,4.8,3,2,0,1,0,0,0,1,0,Upper Portion,507.14
+Gulberg III-V,9.7,3,2,2,0,0,0,0,0,0,House,1556.82
+Allama Iqbal Town,20.3,6,5,1,0,0,1,0,0,0,House,1566.89
+Model Town,9.8,3,2,3,1,0,0,0,0,0,House,1139.49
+Gulberg III-V,5.4,4,4,1,0,1,0,1,0,0,House,909.05
+Lake City,19.6,5,5,18,1,1,0,1,0,1,House,1986.97
+DHA Phase 7-9,6.6,3,3,0,0,1,0,0,0,1,House,930.11
+Allama Iqbal Town,7.5,3,2,12,0,1,0,1,0,0,Flat,586.49
+DHA Phase 4-6,7.2,3,3,1,0,0,0,0,0,1,Upper Portion,922.93
+Shahdara,7.3,4,3,35,0,1,0,1,0,0,Lower Portion,253.18
+Wapda Town,13.8,5,5,35,1,1,1,0,1,0,Upper Portion,1439.12
+Gulberg I-II,10.2,5,4,3,1,1,1,0,1,0,House,1686.38
+DHA Phase 1-3,7.1,4,4,12,0,0,1,0,0,1,Upper Portion,1245.67
+Allama Iqbal Town,20.1,7,6,0,1,1,1,0,1,0,House,1611.94
+Iqbal Town,20.2,5,4,35,1,1,1,0,0,0,House,1676.57
+Wapda Town,20.1,7,7,12,1,1,1,0,0,0,House,2042.32
+Wapda Town,6.9,4,4,0,1,0,1,0,0,0,House,713.14
+DHA Phase 4-6,9.8,4,4,5,1,1,0,0,0,1,Upper Portion,1697.6
+Model Town,40.3,5,4,0,1,1,1,0,0,0,House,4890.17
+DHA Phase 4-6,13.7,5,4,5,0,0,0,0,0,1,House,2366.75
+Faisal Town,5.2,3,2,18,0,0,0,0,0,0,House,466.64
+Garden Town,4.7,3,3,8,0,0,0,0,0,0,Upper Portion,541.94
+Model Town,10.1,5,4,5,1,1,0,0,0,0,House,1546.88
+DHA Phase 4-6,20.2,5,5,1,0,0,0,0,0,1,House,3362.71
+Gulberg III-V,9.7,4,3,3,0,0,0,0,0,0,House,1558.51
+Model Town,9.6,4,4,1,0,0,1,1,0,0,House,1358.97
+Wapda Town,4.6,3,2,25,0,1,0,0,0,0,Flat,406.28
+Garden Town,14.1,4,3,1,1,0,0,0,0,0,House,1878.24
+Samanabad,20.3,6,6,12,1,0,0,0,0,0,House,1449.73
+Bahria Town,9.5,4,3,5,0,0,0,0,0,1,Upper Portion,1125.22
+DHA Phase 4-6,14.2,4,3,3,1,1,0,0,0,1,Upper Portion,2517.25
+Iqbal Town,39.8,5,5,12,1,0,1,1,0,0,House,3320.0
+Wapda Town,7.0,4,3,8,0,1,1,0,0,0,Upper Portion,796.35
+Lake City,10.4,5,5,8,1,1,0,0,1,1,House,1297.16
+Wapda Town,6.8,4,4,12,0,0,0,0,0,0,House,661.82
+Bahria Town,20.0,4,3,8,0,1,1,1,1,1,House,2303.76
+Bahria Town,9.5,3,2,5,0,0,0,0,0,1,Flat,1215.41
+Johar Town,13.6,5,4,12,1,1,1,0,0,0,House,1308.55
+DHA Phase 1-3,19.8,4,4,18,1,1,0,0,0,1,Upper Portion,2866.01
+DHA Phase 4-6,9.5,4,3,0,1,0,0,0,0,1,Upper Portion,1624.27
+DHA Phase 1-3,20.1,5,5,8,1,0,0,0,1,1,House,4312.83
+Garden Town,9.9,4,3,0,0,1,1,0,0,0,Lower Portion,1492.16
+Model Town,7.0,3,2,2,0,0,0,0,0,0,Flat,915.32
+Bahria Town,13.7,4,4,12,1,1,0,1,1,1,Upper Portion,1615.45
+Samanabad,19.8,5,4,25,1,1,1,0,0,0,House,1301.97
+Gulberg III-V,7.2,4,3,25,0,0,1,0,0,0,Upper Portion,991.45
+Johar Town,20.5,6,5,0,1,1,0,0,1,0,House,2235.83
+Wapda Town,19.6,4,3,8,0,1,0,0,0,0,House,1805.39
+Gulberg I-II,7.4,4,3,12,0,0,1,0,0,0,Upper Portion,1421.86
+DHA Phase 4-6,40.1,5,5,1,1,1,0,0,1,1,House,7219.32
+Gulberg III-V,5.1,3,2,18,0,0,0,1,0,0,House,829.66
+DHA Phase 7-9,7.0,3,3,18,0,0,1,0,0,1,Upper Portion,918.83
+Township,6.6,4,3,35,0,0,0,0,0,0,House,440.07
+Allama Iqbal Town,19.6,4,3,0,0,1,1,0,0,0,House,1563.48
+Garden Town,14.1,4,4,2,1,1,1,0,1,0,Upper Portion,1871.4
+Faisal Town,6.8,3,2,25,1,0,1,1,0,0,House,536.21
+Allama Iqbal Town,10.4,4,3,18,1,1,0,0,1,0,Upper Portion,762.84
+DHA Phase 7-9,13.9,5,5,25,1,1,0,0,0,1,Upper Portion,1885.89
+Samanabad,4.6,2,2,0,0,0,1,0,0,0,House,287.61
+Lake City,20.2,6,5,12,1,0,0,0,0,1,Upper Portion,2096.13
+Allama Iqbal Town,19.8,4,4,12,1,1,0,0,0,0,House,1444.89
+Samanabad,10.0,4,4,0,1,1,1,0,0,0,House,688.08
+Model Town,40.2,6,6,8,1,1,0,1,0,0,House,4211.81
+DHA Phase 4-6,10.4,5,5,12,1,0,0,0,0,1,House,1753.12
+Gulberg I-II,40.3,5,4,2,1,0,0,1,0,0,House,6593.65
+Johar Town,14.2,5,4,3,1,1,0,0,0,0,House,1459.03
+Allama Iqbal Town,14.2,4,4,12,1,0,0,1,0,0,House,1222.99
+Faisal Town,7.4,4,3,8,1,0,0,0,0,0,House,786.14
+DHA Phase 1-3,19.8,5,5,25,1,0,1,0,0,1,Upper Portion,3963.72
+Bahria Town,9.5,3,2,5,0,0,0,0,1,1,House,952.71
+Johar Town,6.8,4,3,3,0,0,0,0,0,0,Flat,654.47
+Gulberg I-II,4.7,3,3,35,1,0,1,0,0,0,Flat,855.95
+DHA Phase 4-6,10.2,5,5,35,1,1,0,1,0,1,Upper Portion,1813.19
+Model Town,10.1,4,3,0,1,1,0,1,0,0,House,1581.96
+Township,14.1,4,3,25,0,1,0,0,1,0,House,800.7
+Model Town,19.5,4,3,1,0,1,1,0,1,0,Upper Portion,2481.43
+Bahria Town,5.2,3,3,0,0,0,0,1,0,1,Lower Portion,752.53
+Iqbal Town,13.8,5,4,3,1,1,0,0,0,0,House,1257.38
+Model Town,7.2,4,4,3,0,0,1,0,0,0,House,877.08
+Shahdara,20.1,7,7,25,1,0,1,0,0,0,House,1178.28
+Shahdara,19.8,4,4,18,1,0,0,0,1,0,House,783.42
+Gulberg III-V,9.6,4,3,35,0,0,1,0,0,0,Lower Portion,779.3
+Bahria Town,13.6,5,5,18,1,1,1,0,0,1,House,1764.31
+Gulberg III-V,7.3,3,2,8,0,0,0,0,0,0,Upper Portion,1154.11
+Gulberg III-V,10.4,5,5,18,1,1,0,0,1,0,House,1642.57
+DHA Phase 1-3,20.1,6,5,35,1,1,0,0,1,1,House,3167.91
+Valencia,9.6,3,2,18,0,0,0,0,1,1,House,1164.32
+Bahria Town,9.9,4,4,18,1,0,0,0,0,1,Flat,1105.98
+DHA Phase 1-3,10.2,5,5,35,1,1,0,0,1,1,Upper Portion,1787.95
+Gulberg III-V,20.3,5,4,1,1,0,1,0,1,0,House,3514.79
+Samanabad,6.6,4,3,18,0,0,0,0,0,0,Flat,338.54
+Gulberg I-II,6.5,4,4,25,0,0,0,0,0,0,Upper Portion,1124.09
+DHA Phase 7-9,14.2,4,4,35,0,1,0,0,0,1,House,2157.47
+Bahria Town,19.9,4,3,2,1,1,0,0,0,1,House,2398.12
+Shahdara,4.8,2,2,8,0,0,1,0,0,0,House,287.61
+Gulberg I-II,6.5,3,3,18,1,0,0,0,0,0,Upper Portion,1171.93
+Iqbal Town,5.0,4,3,3,0,0,0,0,0,0,House,492.54
+Wapda Town,7.4,3,3,12,0,1,0,0,0,0,Flat,709.89
+Gulberg I-II,10.5,5,5,3,1,1,0,0,0,0,Upper Portion,1957.02
+Wapda Town,14.1,5,5,5,1,1,1,1,0,0,House,1342.37
+Model Town,14.0,4,4,8,1,1,1,0,0,0,House,1608.98
+Garden Town,13.6,5,4,12,1,1,1,0,0,0,House,1966.79
+Garden Town,10.0,4,4,8,1,1,0,0,0,0,House,1488.11
+Lake City,19.9,4,4,8,0,1,1,0,1,1,House,2245.42
+DHA Phase 4-6,10.1,5,4,3,0,0,0,0,0,1,Upper Portion,1586.18
+Allama Iqbal Town,39.9,6,5,2,0,0,0,0,0,0,Upper Portion,2351.45
+Model Town,13.7,4,4,0,1,1,0,0,0,0,House,1882.42
+DHA Phase 7-9,4.6,3,3,2,0,0,1,0,1,1,Lower Portion,540.88
+DHA Phase 1-3,13.8,4,4,12,1,1,0,1,0,1,House,2158.69
+Valencia,6.6,3,3,25,1,0,0,0,1,1,Lower Portion,778.37
+Iqbal Town,13.7,4,4,2,1,0,0,0,0,0,House,1107.91
+DHA Phase 1-3,5.5,4,4,1,1,0,0,0,0,1,Upper Portion,1108.29
+Bahria Town,6.9,3,2,18,1,0,1,0,1,1,Upper Portion,805.62
+Gulberg I-II,20.0,7,6,5,1,1,1,0,0,0,Upper Portion,3225.64
+Garden Town,7.4,4,4,35,1,1,0,0,0,0,House,743.82
+DHA Phase 7-9,20.5,6,5,18,1,1,0,0,0,1,House,2482.39
+Iqbal Town,7.1,3,2,5,0,0,1,0,0,0,House,581.82
+Johar Town,14.3,4,4,3,1,1,0,0,0,0,House,1252.12
+Township,13.8,5,4,12,1,0,0,0,0,0,House,788.52
+DHA Phase 7-9,9.8,3,2,0,0,0,0,0,0,1,House,1154.44
+Model Town,6.9,3,3,1,0,0,1,0,0,0,House,936.09
+DHA Phase 4-6,7.2,3,3,2,0,0,0,0,0,1,Flat,1246.48
+Township,5.2,3,3,25,0,0,1,1,0,0,Upper Portion,272.79
+Faisal Town,6.8,4,3,8,1,0,1,1,0,0,House,658.58
+Gulberg III-V,13.6,5,5,0,1,0,0,1,0,0,House,1718.91
+Garden Town,20.1,6,5,18,1,0,1,0,0,0,House,2224.71
+Allama Iqbal Town,19.6,5,5,8,1,0,0,0,0,0,House,1451.43
+Lake City,14.1,5,5,8,0,1,1,1,0,1,Upper Portion,1701.78
+Lake City,20.2,6,6,2,1,1,0,1,0,1,House,2489.85
+Gulberg I-II,14.2,4,4,12,1,1,0,0,0,0,Upper Portion,2898.86
+DHA Phase 4-6,7.3,4,3,35,1,0,0,0,0,1,Upper Portion,1134.49
+Samanabad,20.4,5,4,0,1,0,0,1,0,0,House,1272.05
+Samanabad,14.0,4,4,3,1,1,0,0,1,0,Upper Portion,765.25
+Garden Town,10.2,5,4,3,1,1,0,0,1,0,House,1151.93
+Model Town,5.1,3,3,3,1,0,0,0,0,0,House,734.6
+Model Town,9.7,3,3,5,0,0,1,0,0,0,House,1188.73
+Wapda Town,9.5,4,3,25,1,1,0,0,1,0,Flat,1025.45
+Samanabad,19.8,5,4,35,1,1,0,0,0,0,House,981.09
+Samanabad,9.9,4,4,2,1,0,0,0,0,0,House,683.35
+Allama Iqbal Town,10.1,4,4,12,1,1,1,1,0,0,House,727.52
+Garden Town,40.3,5,5,12,1,1,1,0,0,0,House,4575.55
+DHA Phase 4-6,4.7,3,2,12,0,0,0,0,0,1,Lower Portion,808.25
+DHA Phase 7-9,9.6,4,4,8,0,0,0,0,0,1,House,1214.15
+Samanabad,5.5,3,3,2,1,1,0,0,1,0,House,368.31
+Valencia,13.6,4,4,8,1,1,1,0,0,1,House,1540.76
+DHA Phase 1-3,20.0,4,4,8,1,0,1,0,1,1,House,4557.01
+DHA Phase 4-6,7.1,3,3,25,0,0,0,0,0,1,House,1095.25
+Iqbal Town,20.0,6,6,18,1,0,0,0,0,0,House,1770.38
+DHA Phase 1-3,6.6,3,2,1,0,0,1,0,0,1,House,1250.12
+DHA Phase 7-9,19.6,5,5,1,1,0,1,0,0,1,House,2741.88
+Lake City,13.6,5,5,35,1,1,0,1,0,1,House,1396.27
+Iqbal Town,20.1,6,5,12,1,0,0,0,1,0,House,1736.36
+Garden Town,5.0,3,2,25,0,0,0,0,0,0,Flat,627.82
+Gulberg I-II,39.7,7,7,0,1,1,0,0,0,0,House,6123.58
+Iqbal Town,14.1,5,4,12,1,1,0,0,1,0,House,1440.13
+Gulberg I-II,7.3,4,4,12,1,1,1,0,1,0,House,1517.02
+Model Town,19.5,5,4,25,1,0,0,0,0,0,House,2765.52
+Wapda Town,7.0,3,2,1,0,0,0,0,0,0,Lower Portion,624.52
+Garden Town,20.2,5,5,3,1,1,0,1,0,0,House,1669.42
+Faisal Town,4.8,2,2,8,1,1,0,0,0,0,House,430.54
+Garden Town,13.8,5,5,25,1,1,0,0,0,0,House,1675.22
+Lake City,10.1,5,4,35,1,0,0,0,0,1,House,1071.68
+DHA Phase 4-6,5.4,3,3,35,0,0,0,1,0,1,House,709.5
+Model Town,7.3,4,3,35,0,0,0,0,0,0,House,1000.75
+Gulberg III-V,5.1,3,3,0,0,0,1,0,0,0,Upper Portion,624.49
+Gulberg I-II,10.2,4,4,0,1,1,0,0,0,0,House,1831.57
+Shahdara,6.9,3,3,1,0,0,0,0,0,0,Upper Portion,354.57
+Johar Town,10.1,5,5,5,1,1,1,1,0,0,House,1053.38
+Samanabad,7.0,4,3,25,0,1,1,1,0,0,House,540.9
+Garden Town,6.7,4,4,25,1,0,0,1,0,0,Lower Portion,756.24
+Allama Iqbal Town,14.2,4,3,2,1,1,0,0,0,0,House,1162.56
+Bahria Town,5.1,3,2,12,0,1,1,1,0,1,Upper Portion,531.14
+Valencia,19.9,5,5,35,1,1,0,0,1,1,House,2700.29
+Bahria Town,20.4,5,5,8,1,1,0,0,0,1,House,2611.9
+DHA Phase 7-9,13.5,5,4,1,1,0,0,0,0,1,House,1965.83
+Wapda Town,9.8,4,3,8,0,0,1,0,0,0,House,903.48
+Gulberg III-V,19.6,5,4,5,1,1,0,0,0,0,Upper Portion,2365.64
+DHA Phase 1-3,7.3,4,4,12,0,1,1,0,0,1,House,1350.11
+Garden Town,5.2,4,4,8,0,0,0,0,1,0,Upper Portion,752.99
+DHA Phase 7-9,6.8,3,2,0,0,0,0,0,0,1,House,966.92
+Township,20.2,5,4,35,1,1,0,0,0,0,House,933.41
+Township,4.9,2,2,12,0,1,0,0,0,0,House,249.56
+Samanabad,10.3,4,4,8,1,1,1,0,1,0,House,801.8
+Johar Town,40.0,7,6,35,1,1,0,0,0,0,Upper Portion,4153.78
+DHA Phase 1-3,19.9,4,3,2,1,0,0,0,1,1,House,3173.43
+Township,10.4,5,4,2,1,0,0,0,1,0,House,520.56
+Johar Town,4.8,2,2,25,1,0,0,1,0,0,Upper Portion,427.08
+Shahdara,19.6,5,5,3,1,1,1,0,0,0,House,776.46
+Shahdara,10.1,5,4,25,1,0,1,0,1,0,House,518.47
+Faisal Town,5.5,4,4,3,0,0,1,0,1,0,Upper Portion,616.18
+Gulberg III-V,4.9,3,3,0,1,0,0,0,0,0,House,607.51
+Johar Town,19.6,4,3,8,1,1,1,1,0,0,House,1967.38
+Faisal Town,13.8,4,4,2,1,1,1,0,0,0,House,1358.21
+Model Town,20.0,6,5,18,1,1,0,0,0,0,House,2911.94
+DHA Phase 7-9,19.7,5,4,12,1,1,1,1,0,1,House,2649.89
+Lake City,10.2,4,3,35,1,1,1,0,0,1,Upper Portion,1076.7
+Township,10.5,4,3,25,1,0,0,0,0,0,House,520.65
+Iqbal Town,10.0,4,3,2,0,1,1,1,0,0,Lower Portion,861.34
+Lake City,6.9,4,4,25,0,1,0,1,1,1,House,827.89
+DHA Phase 4-6,9.9,4,4,12,0,1,0,0,0,1,Lower Portion,1849.4
+Valencia,13.6,5,4,18,1,1,1,0,0,1,House,1574.38
+Shahdara,14.4,5,5,25,1,0,0,1,0,0,House,705.49
+DHA Phase 7-9,19.9,5,4,12,1,1,0,0,0,1,House,2379.99
+Bahria Town,9.9,3,3,8,1,1,0,1,0,1,House,1231.98
+Faisal Town,14.2,5,5,12,0,0,0,0,0,0,House,1259.75
+Wapda Town,13.9,4,3,3,1,0,0,1,1,0,House,1466.23
+Iqbal Town,10.1,4,4,2,1,1,1,0,0,0,House,817.91
+Iqbal Town,13.6,4,4,12,1,0,0,1,1,0,House,1253.65
+Model Town,7.3,4,4,3,1,0,0,0,1,0,Upper Portion,914.39
+Gulberg III-V,10.4,4,3,0,1,0,0,0,0,0,House,1743.65
+Allama Iqbal Town,5.1,3,3,0,0,0,0,0,0,0,Upper Portion,369.84
+Allama Iqbal Town,10.5,4,4,12,0,0,1,1,0,0,House,675.8
+Faisal Town,9.7,3,3,5,0,1,0,0,0,0,House,773.36
+Samanabad,14.0,4,4,18,1,1,0,0,0,0,House,915.42
+Bahria Town,20.1,5,5,5,1,1,0,1,0,1,House,2427.82
+Bahria Town,14.1,4,4,8,1,1,1,1,0,1,House,1591.87
+Allama Iqbal Town,13.9,5,5,8,1,0,0,1,0,0,House,1010.61
+Garden Town,9.8,3,3,18,0,0,0,0,0,0,Lower Portion,1037.53
+Iqbal Town,13.6,4,4,5,1,1,1,0,0,0,Upper Portion,1153.6
+Allama Iqbal Town,4.9,2,2,35,1,0,1,0,0,0,Upper Portion,294.55
+Samanabad,6.7,3,3,35,1,0,1,0,0,0,House,459.14
+Model Town,10.2,4,4,25,1,0,0,0,0,0,House,1212.91
+Johar Town,9.7,4,4,35,1,0,0,0,0,0,Flat,954.92
+DHA Phase 4-6,4.6,3,3,8,0,0,0,0,0,1,House,802.97
+Valencia,5.1,4,4,12,1,0,1,0,1,1,House,781.8
+DHA Phase 1-3,7.1,4,3,18,0,0,0,0,1,1,Upper Portion,1496.32
+Bahria Town,40.4,6,5,18,1,1,0,1,0,1,House,4970.19
+Lake City,7.1,3,2,25,1,0,0,0,0,1,House,810.43
+Gulberg III-V,9.8,3,2,18,0,0,1,0,0,0,Lower Portion,1210.63
+Valencia,7.3,4,4,35,0,0,1,0,0,1,Upper Portion,761.86
+DHA Phase 1-3,14.0,4,4,5,1,0,0,0,1,1,House,2387.21
+DHA Phase 1-3,6.6,4,4,25,0,0,0,0,1,1,Upper Portion,1334.36
+Allama Iqbal Town,7.1,3,2,18,1,0,0,0,0,0,Lower Portion,481.41
+Model Town,10.4,5,4,18,0,0,1,0,0,0,House,1552.61
+DHA Phase 4-6,4.9,3,2,5,0,0,0,0,1,1,House,968.14
+Bahria Town,4.8,3,2,25,0,1,1,0,0,1,Lower Portion,489.76
+Wapda Town,6.6,4,4,35,0,0,0,0,0,0,Upper Portion,576.27
+Gulberg I-II,4.7,2,2,2,0,0,0,1,1,0,House,844.78
+Garden Town,4.9,3,2,12,0,0,0,0,0,0,Upper Portion,571.79
+DHA Phase 4-6,7.1,4,4,5,0,0,0,0,0,1,House,1148.76
+DHA Phase 1-3,19.6,5,4,35,1,0,0,1,0,1,House,4158.84
+Lake City,10.4,5,4,8,1,0,0,0,0,1,House,1186.07
+Lake City,10.3,4,3,3,1,0,0,0,0,1,Upper Portion,1125.81
+Garden Town,7.1,3,2,5,1,0,0,0,1,0,Upper Portion,812.12
+Wapda Town,20.3,7,7,18,1,0,1,0,0,0,Upper Portion,2074.37
+Shahdara,9.6,3,3,0,1,0,0,0,1,0,Upper Portion,414.98
+Bahria Town,5.0,2,2,12,1,0,1,0,0,1,House,656.95
+Model Town,14.1,4,3,35,1,1,1,1,0,0,Upper Portion,1979.71
+Allama Iqbal Town,5.3,3,3,25,1,0,0,0,0,0,Flat,358.81
+Gulberg III-V,7.3,4,4,0,1,0,0,0,0,0,House,1150.79
+Johar Town,9.8,3,2,35,0,0,0,1,0,0,Upper Portion,950.48
+DHA Phase 4-6,20.4,6,5,18,1,1,0,0,1,1,House,3418.42
+DHA Phase 1-3,9.6,3,2,2,0,0,0,1,0,1,Upper Portion,1810.44
+Shahdara,14.4,4,3,0,1,1,0,1,0,0,House,756.64
+Allama Iqbal Town,40.5,6,5,2,1,1,0,1,0,0,House,3060.65
+Iqbal Town,4.7,3,3,25,0,0,0,0,1,0,House,411.67
+Johar Town,7.2,4,4,0,0,1,1,0,1,0,House,692.43
+DHA Phase 7-9,9.5,4,3,3,0,0,1,0,0,1,Upper Portion,1278.94
+DHA Phase 7-9,9.9,4,3,18,0,0,0,0,1,1,House,1392.62
+Gulberg III-V,10.0,4,3,12,1,0,0,0,0,0,House,1493.56
+Lake City,20.1,5,4,25,1,1,1,0,1,1,House,2449.44
+Iqbal Town,14.4,4,4,18,1,0,0,0,1,0,House,1366.47
+Garden Town,14.2,5,5,0,1,1,0,1,0,0,Upper Portion,1643.58
+Gulberg III-V,7.0,3,2,25,1,1,0,0,0,0,Flat,979.83
+Township,20.3,5,5,3,1,1,0,1,0,0,House,1186.56
+Wapda Town,20.5,6,5,12,1,0,0,1,0,0,House,1954.98
+Lake City,19.5,4,3,12,1,1,0,0,1,1,House,2125.53
+Valencia,5.5,4,4,2,1,0,0,0,1,1,Upper Portion,770.1
+Johar Town,13.6,4,3,35,1,1,0,0,1,0,House,1385.01
+Gulberg III-V,5.3,3,3,8,1,0,0,0,0,0,Upper Portion,885.95
+Model Town,6.8,4,3,0,0,1,0,0,1,0,Lower Portion,926.48
+Wapda Town,4.6,3,2,35,0,0,1,0,0,0,House,380.86
+DHA Phase 1-3,13.9,4,3,12,1,1,1,0,1,1,Upper Portion,2475.97
+DHA Phase 4-6,14.1,5,4,18,0,0,0,0,0,1,Upper Portion,2500.31
+DHA Phase 1-3,4.9,2,2,12,1,0,0,0,0,1,Lower Portion,718.68
+DHA Phase 1-3,9.6,3,2,25,0,0,0,0,0,1,House,1480.3
+Faisal Town,10.1,4,4,0,1,1,0,0,0,0,House,865.87
+Iqbal Town,10.4,4,4,3,1,1,1,0,0,0,House,1082.36
+Bahria Town,4.9,3,2,8,1,0,1,0,0,1,Flat,701.74
+DHA Phase 4-6,9.7,4,4,0,1,0,0,0,0,1,Lower Portion,1583.54
+Bahria Town,13.9,4,3,18,1,0,1,1,0,1,House,1860.78
+Bahria Town,4.5,3,3,5,0,0,0,0,0,1,Flat,548.81
+DHA Phase 7-9,5.3,3,3,3,0,0,0,0,0,1,House,617.2
+Johar Town,10.3,5,4,0,1,0,0,0,0,0,Upper Portion,1050.8
+Johar Town,20.1,5,4,18,1,1,0,0,0,0,House,1866.81
+Valencia,13.9,4,4,25,1,1,0,1,0,1,House,1904.32
+Garden Town,14.3,4,3,5,1,1,0,0,0,0,House,1824.88
+DHA Phase 1-3,10.1,5,4,12,1,1,0,0,1,1,House,1641.62
+Johar Town,10.3,4,4,3,1,1,0,0,1,0,House,894.89
+Garden Town,5.1,4,4,12,1,0,0,0,0,0,Upper Portion,651.09
+Bahria Town,14.3,4,3,0,1,1,1,0,0,1,House,1206.58
+Faisal Town,20.1,7,7,8,1,1,0,0,0,0,House,1567.74
+Garden Town,13.9,4,3,12,1,1,0,0,0,0,House,1821.53
+DHA Phase 7-9,20.5,5,4,35,1,1,1,0,0,1,House,2394.23
+DHA Phase 4-6,14.0,4,4,5,1,0,1,1,0,1,House,2704.38
+Garden Town,5.1,3,2,18,1,0,1,0,1,0,Flat,759.45
+DHA Phase 1-3,19.7,5,5,12,1,0,0,1,1,1,House,3264.5
+Valencia,5.1,4,3,35,1,0,0,1,0,1,House,640.45
+Township,10.1,4,3,5,1,1,1,0,0,0,House,717.46
+Valencia,4.7,3,2,5,0,1,0,0,1,1,Lower Portion,576.54
+Johar Town,4.6,2,2,25,0,1,0,0,0,0,House,368.92
+Garden Town,10.1,5,5,0,1,0,0,1,0,0,House,1329.62
+Bahria Town,7.3,3,2,1,0,0,0,0,0,1,House,776.59
+Lake City,10.0,5,5,1,1,1,1,0,0,1,House,1337.98
+Township,9.7,4,4,25,0,0,0,0,0,0,House,592.03
+Johar Town,5.2,4,3,0,0,0,0,0,0,0,House,530.0
+Township,4.6,2,2,25,0,0,0,0,0,0,House,245.67
+Samanabad,9.9,4,4,8,0,1,0,1,0,0,Upper Portion,528.24
+DHA Phase 7-9,6.7,4,4,0,0,0,0,1,0,1,House,885.21
+DHA Phase 4-6,13.7,5,4,8,1,1,1,0,0,1,House,2784.14
+DHA Phase 4-6,13.7,4,3,2,1,1,0,1,0,1,House,2365.72
+DHA Phase 1-3,19.9,5,5,12,1,0,0,0,0,1,House,4125.61
+DHA Phase 4-6,13.6,4,3,18,1,1,1,1,0,1,House,2386.71
+Iqbal Town,9.9,4,4,8,0,0,1,0,0,0,House,1037.73
+DHA Phase 4-6,14.0,5,4,0,1,0,0,1,1,1,House,1838.7
+Model Town,7.0,3,3,18,0,0,0,0,0,0,House,899.05
+Faisal Town,6.9,3,2,25,1,0,1,1,0,0,House,710.47
+DHA Phase 1-3,20.3,6,6,18,1,1,0,0,0,1,House,4244.63
+Allama Iqbal Town,9.6,4,3,25,0,0,0,0,0,0,House,810.34
+Gulberg III-V,20.0,7,7,2,1,0,0,1,1,0,House,2998.38
+DHA Phase 4-6,19.6,5,4,25,1,1,1,0,1,1,Upper Portion,3048.32
+Iqbal Town,19.6,5,4,5,1,1,0,0,0,0,House,1517.87
+Garden Town,20.1,6,5,0,1,0,1,0,0,0,House,2246.58
+Faisal Town,10.1,5,5,25,1,1,0,0,0,0,House,918.77
+Wapda Town,7.4,3,3,35,1,0,0,0,0,0,Upper Portion,682.49
+Allama Iqbal Town,10.1,4,4,18,1,0,0,1,0,0,House,777.87
+Gulberg III-V,10.5,4,3,3,1,1,0,1,0,0,House,1685.11
+DHA Phase 7-9,13.5,5,5,3,1,1,1,0,0,1,House,1929.26
+Wapda Town,13.6,5,4,8,1,1,0,0,0,0,House,1461.73
+Allama Iqbal Town,13.5,5,4,25,1,1,1,0,0,0,House,1154.33
+Shahdara,9.7,4,3,1,0,0,0,0,1,0,House,434.46
+Johar Town,7.0,3,3,25,0,0,1,0,0,0,House,731.27
+Johar Town,10.1,5,4,3,0,1,0,0,0,0,Upper Portion,819.48
+Allama Iqbal Town,4.5,3,3,25,0,0,0,0,0,0,Lower Portion,280.92
+Model Town,20.4,7,7,35,1,0,0,0,0,0,House,2908.1
+Township,7.3,4,3,8,0,0,1,0,0,0,Upper Portion,362.76
+Faisal Town,6.8,4,4,5,1,0,0,0,0,0,Upper Portion,531.67
+Johar Town,4.6,2,2,25,0,0,1,0,0,0,House,455.3
+Wapda Town,13.7,4,3,12,1,1,0,0,0,0,House,1334.39
+Wapda Town,13.6,4,4,18,0,1,0,1,0,0,House,1256.59
+DHA Phase 4-6,6.6,3,2,12,0,0,0,0,0,1,House,964.41
+Samanabad,5.0,4,3,2,0,0,0,0,0,0,Upper Portion,305.59
+Bahria Town,9.7,4,3,25,1,0,1,0,1,1,Flat,916.71
+Allama Iqbal Town,6.9,4,4,2,0,0,0,0,0,0,Flat,504.86
+Model Town,14.5,5,5,35,1,0,1,0,0,0,House,1828.85
+Samanabad,14.2,4,4,3,1,1,0,0,0,0,Upper Portion,858.23
+Johar Town,10.4,4,3,18,1,1,0,0,1,0,House,1003.57
+DHA Phase 1-3,6.6,3,2,3,0,0,0,0,0,1,Flat,1022.57
+Samanabad,39.9,7,7,5,1,1,0,0,0,0,House,2334.27
+DHA Phase 4-6,10.1,4,4,5,1,1,0,0,0,1,House,1927.01
+Model Town,13.6,5,5,18,1,1,0,1,1,0,House,2147.29
+Township,4.5,2,2,12,1,1,0,0,0,0,House,364.36
+Township,10.2,4,4,25,1,1,0,0,0,0,House,723.5
+Lake City,5.1,3,2,5,1,0,0,0,0,1,Lower Portion,476.35
+Garden Town,9.9,3,3,18,1,0,1,0,0,0,Upper Portion,1180.16
+Bahria Town,40.0,5,4,18,0,1,0,0,1,1,House,4491.54
+Gulberg III-V,9.9,4,3,2,0,0,1,0,0,0,House,1466.69
+Model Town,4.5,3,2,8,1,0,0,0,0,0,Lower Portion,579.92
+Iqbal Town,4.8,3,2,8,0,1,1,0,0,0,House,593.66
+Wapda Town,9.7,3,3,5,0,0,0,0,0,0,House,793.68
+Allama Iqbal Town,6.6,4,3,5,0,0,0,0,0,0,Lower Portion,421.79
+Allama Iqbal Town,5.5,3,3,18,1,0,1,1,0,0,Flat,529.37
+DHA Phase 4-6,14.1,5,4,2,1,0,0,0,0,1,House,2216.25
+Bahria Town,10.2,4,4,18,0,1,0,0,1,1,House,1264.29
+DHA Phase 4-6,6.8,3,3,35,1,0,1,0,0,1,Upper Portion,1269.17
+Lake City,19.9,5,4,12,1,1,0,0,1,1,House,2305.03
+Johar Town,4.7,3,3,12,1,1,1,1,1,0,House,577.85
+Samanabad,19.6,5,4,0,1,1,1,0,1,0,House,1405.73
+Model Town,6.7,3,3,25,0,0,0,1,0,0,House,798.88
+DHA Phase 4-6,20.3,6,5,3,1,1,0,0,0,1,House,3218.03
+DHA Phase 7-9,14.2,4,3,12,0,0,0,0,0,1,House,2024.34
+Wapda Town,20.0,5,5,35,0,1,0,0,1,0,House,1397.18
+Valencia,40.0,7,7,12,1,1,0,0,0,1,House,5621.9
+DHA Phase 4-6,7.4,4,3,18,1,0,0,1,0,1,Flat,1322.61
+DHA Phase 4-6,39.6,5,4,8,1,1,0,0,0,1,House,6653.55
+Iqbal Town,9.8,3,3,0,0,0,1,0,0,0,Flat,696.12
+DHA Phase 4-6,9.8,3,2,25,0,0,0,1,1,1,Lower Portion,1364.91
+Allama Iqbal Town,7.3,3,2,0,0,1,0,0,0,0,House,537.68
+Iqbal Town,10.5,4,3,18,1,0,0,1,0,0,House,1038.34
+DHA Phase 4-6,6.7,3,3,0,0,0,1,0,0,1,House,889.22
+DHA Phase 4-6,10.4,5,4,25,1,1,0,0,0,1,House,1930.14
+Shahdara,10.3,5,4,2,1,1,1,0,0,0,House,547.33
+Johar Town,13.7,5,5,8,0,1,0,0,0,0,Upper Portion,1334.39
+Johar Town,19.9,5,4,12,1,1,0,0,0,0,House,2068.27
+Allama Iqbal Town,9.9,3,2,8,1,0,0,0,0,0,Lower Portion,718.02
+Township,7.5,4,3,5,1,0,0,0,1,0,House,438.66
+Shahdara,6.7,4,3,8,1,0,0,0,0,0,Flat,359.03
+Wapda Town,7.3,4,4,5,0,0,1,0,0,0,Flat,511.47
+Johar Town,4.8,2,2,8,1,1,0,0,1,0,House,494.1
+DHA Phase 4-6,7.2,4,3,5,0,0,0,1,0,1,House,1292.93
+Allama Iqbal Town,6.9,4,3,12,0,0,0,1,0,0,Upper Portion,497.31
+Lake City,40.1,6,5,3,1,1,0,0,0,1,House,3350.79
+Johar Town,10.3,5,4,35,1,1,1,1,0,0,Upper Portion,1150.89
+Samanabad,7.3,3,3,8,1,0,0,0,0,0,House,398.99
+DHA Phase 4-6,10.4,5,5,2,1,1,0,0,0,1,House,1786.95
+Bahria Town,4.6,2,2,8,0,0,1,0,1,1,Upper Portion,559.94
+DHA Phase 1-3,10.2,4,3,25,0,1,1,0,0,1,House,1929.03
+Bahria Town,13.6,4,4,0,1,1,0,0,0,1,House,1840.66
+DHA Phase 1-3,9.9,4,4,18,1,0,0,0,1,1,Lower Portion,1824.94
+DHA Phase 4-6,10.0,4,4,12,1,1,0,0,0,1,Upper Portion,1778.68
+DHA Phase 4-6,39.9,5,4,2,1,1,0,0,0,1,House,6551.94
+Garden Town,20.0,6,5,25,1,0,0,0,1,0,House,2721.38
+Wapda Town,14.5,5,4,5,1,0,0,1,0,0,House,1647.74
+Valencia,9.6,4,3,3,1,0,0,0,0,1,House,1234.87
+Township,14.2,4,3,25,1,0,1,0,0,0,House,905.35
+Johar Town,6.9,3,2,12,0,0,0,1,0,0,House,837.94
+Gulberg III-V,9.6,3,3,25,0,0,1,0,1,0,House,1640.82
+Faisal Town,4.7,2,2,12,1,0,0,0,0,0,Upper Portion,339.9
+Gulberg I-II,10.4,5,4,18,0,1,0,0,0,0,House,2033.91
+Shahdara,10.4,4,3,25,1,1,0,0,0,0,House,521.9
+DHA Phase 1-3,7.4,3,2,0,0,1,1,0,1,1,House,1649.03
+Shahdara,40.5,6,6,25,1,0,1,0,0,0,Upper Portion,2016.69
+DHA Phase 1-3,19.7,5,5,12,1,1,0,0,0,1,House,3810.94
+Samanabad,13.9,4,4,0,1,1,0,0,0,0,House,933.76
+Bahria Town,10.2,5,5,8,1,1,0,0,0,1,House,1269.42
+Shahdara,20.0,4,3,1,1,1,0,0,0,0,House,1014.37
+DHA Phase 4-6,4.9,3,3,18,1,1,0,0,1,1,Lower Portion,812.45
+Lake City,19.9,4,4,12,0,1,1,1,0,1,House,2118.23
+Shahdara,5.1,4,3,35,0,0,1,0,0,0,House,298.37
+Bahria Town,20.1,5,4,2,1,0,1,0,1,1,Upper Portion,2455.43
+Garden Town,6.7,3,2,12,0,0,0,1,1,0,House,815.45
+Iqbal Town,20.0,5,5,2,0,1,1,0,1,0,House,1731.97
+Bahria Town,20.1,5,4,12,1,1,1,0,1,1,House,2642.13
+Garden Town,5.1,4,4,18,1,0,0,0,0,0,Lower Portion,561.75
+Valencia,9.7,4,4,18,0,0,0,0,1,1,House,989.12
+Samanabad,40.2,5,5,25,1,1,0,0,0,0,House,1999.91
+DHA Phase 1-3,9.5,3,3,25,0,0,0,0,0,1,Lower Portion,1359.25
+Gulberg III-V,19.9,5,4,0,1,1,1,0,0,0,House,2485.36
+Township,10.3,5,4,5,0,1,0,0,0,0,House,541.14
+Samanabad,10.1,4,4,18,0,1,1,0,0,0,House,750.75
+Bahria Town,6.8,4,3,8,0,0,0,0,0,1,Lower Portion,757.89
+Valencia,7.2,3,3,2,1,0,0,0,1,1,Lower Portion,846.24
+Gulberg III-V,14.1,4,4,12,0,0,0,0,0,0,House,1691.31
+DHA Phase 7-9,10.3,4,3,8,1,1,0,0,0,1,House,1403.98
+Bahria Town,10.2,5,4,5,1,1,0,0,1,1,House,989.77
+Model Town,10.1,4,4,25,1,1,0,0,0,0,Upper Portion,1265.13
+Valencia,10.0,4,3,8,0,0,1,0,0,1,House,1564.19
+DHA Phase 4-6,19.6,4,4,0,1,0,0,0,0,1,House,3549.25
+Shahdara,39.8,6,5,0,1,1,1,0,0,0,Upper Portion,1849.38
+Shahdara,9.9,3,3,25,0,0,0,0,0,0,House,490.75
+Iqbal Town,20.1,7,7,35,1,1,0,0,0,0,Upper Portion,1623.5
+Lake City,14.0,4,3,18,1,1,1,0,0,1,House,1403.27
+Gulberg III-V,9.8,3,2,5,0,0,0,0,0,0,Upper Portion,1681.73
+Allama Iqbal Town,19.5,4,4,35,1,1,1,0,0,0,House,1241.94
+Iqbal Town,7.0,3,2,18,0,0,0,1,0,0,Upper Portion,567.98
+DHA Phase 7-9,4.8,3,2,25,0,1,1,0,0,1,House,703.55
+Samanabad,20.2,6,6,18,1,0,0,0,0,0,House,1109.32
+Allama Iqbal Town,9.5,4,4,5,0,0,0,0,1,0,Lower Portion,741.13
+Township,20.1,5,4,8,1,0,0,0,1,0,House,1141.1
+Wapda Town,20.4,7,6,2,0,0,0,0,0,0,Upper Portion,2065.6
+Valencia,4.7,2,2,3,1,0,1,1,0,1,Lower Portion,651.19
+Johar Town,20.0,4,4,25,1,1,0,0,0,0,House,1928.8
+Township,9.6,4,4,25,1,0,1,0,0,0,Flat,674.26
+Faisal Town,10.1,4,4,18,1,1,0,0,0,0,Upper Portion,745.15
+DHA Phase 1-3,14.1,5,5,8,1,1,0,1,1,1,House,3139.59
+DHA Phase 1-3,19.9,4,4,1,0,1,0,0,1,1,House,4250.93
+Johar Town,5.0,4,4,0,0,0,1,0,0,0,Upper Portion,644.55
+Allama Iqbal Town,10.4,4,4,5,1,1,1,0,0,0,Upper Portion,819.62
+Shahdara,13.7,5,4,8,0,1,1,0,0,0,House,634.83
+DHA Phase 7-9,13.5,5,4,12,1,1,0,0,0,1,House,2317.21
+Valencia,14.4,4,3,0,1,0,1,0,0,1,House,1720.33
+Johar Town,5.1,3,3,35,0,0,0,0,1,0,Lower Portion,400.22
+Shahdara,7.4,3,2,5,0,0,1,0,1,0,Flat,366.24
+Faisal Town,10.1,4,4,25,1,1,1,1,0,0,House,769.33
+Allama Iqbal Town,20.3,5,4,12,1,0,0,1,0,0,House,1631.04
+Bahria Town,6.9,3,3,1,0,0,1,0,1,1,Upper Portion,774.52
+Johar Town,7.2,3,3,25,0,0,0,0,1,0,Flat,676.2
+Gulberg III-V,20.4,5,4,18,0,1,0,0,0,0,House,3306.06
+DHA Phase 1-3,5.1,4,4,12,0,0,1,0,1,1,Flat,1073.9
+Faisal Town,39.7,5,4,8,1,1,0,0,0,0,House,3174.03
+Allama Iqbal Town,13.8,5,4,1,1,0,0,1,1,0,House,1117.42
+Shahdara,19.7,5,4,18,1,1,1,0,0,0,House,975.72
+Shahdara,6.7,4,3,35,0,0,1,0,0,0,House,304.85
+Lake City,4.8,2,2,1,0,0,0,0,1,1,Upper Portion,536.2
+Wapda Town,14.1,4,3,3,0,1,1,1,0,0,Upper Portion,1425.83
+Township,20.1,6,5,35,0,1,0,0,0,0,House,1123.1
+Faisal Town,13.9,4,3,3,1,1,0,0,0,0,Upper Portion,1180.37
+Gulberg III-V,5.1,4,3,18,0,0,1,0,0,0,House,694.05
+Bahria Town,13.6,4,4,12,0,1,0,1,0,1,House,1483.83
+DHA Phase 4-6,13.6,4,4,12,1,1,0,0,0,1,House,2094.61
+Township,13.7,4,3,8,1,0,0,0,0,0,House,750.75
+Valencia,14.0,5,5,3,1,1,0,0,0,1,House,2026.79
+Gulberg I-II,19.7,5,5,0,1,1,0,0,0,0,House,3719.78
+Iqbal Town,13.8,5,4,18,0,1,1,0,0,0,House,1069.03
+Valencia,4.9,3,2,18,0,0,0,0,1,1,House,655.01
+Model Town,10.3,4,4,18,1,1,0,0,1,0,House,1336.81
+DHA Phase 4-6,4.5,3,2,12,0,0,0,0,0,1,House,715.67
+Iqbal Town,10.1,5,4,3,1,1,0,0,0,0,House,770.87
+Bahria Town,10.2,4,3,0,0,0,0,0,0,1,House,1340.69
+Wapda Town,5.3,3,3,25,0,0,0,0,0,0,Lower Portion,362.7
+Bahria Town,7.4,4,3,8,0,0,0,0,0,1,House,880.79
+Faisal Town,4.5,3,3,5,1,1,0,0,1,0,Upper Portion,346.66
+Lake City,19.7,4,3,1,1,0,0,0,0,1,House,2333.22
+Lake City,20.4,6,5,0,1,1,1,1,0,1,House,2201.16
+Faisal Town,5.0,3,3,5,0,0,0,0,1,0,Upper Portion,393.81
+Johar Town,20.1,6,5,25,1,1,1,0,0,0,House,2012.18
+DHA Phase 7-9,10.2,4,4,35,1,1,1,0,0,1,House,1446.37
+DHA Phase 1-3,7.2,4,4,25,1,1,0,0,0,1,Lower Portion,1328.16
+Wapda Town,5.4,4,3,35,0,0,0,0,0,0,Lower Portion,436.51
+Valencia,10.5,5,4,35,0,1,0,0,0,1,House,1196.29
+Iqbal Town,20.2,6,6,12,1,1,0,0,0,0,House,1454.67
+Gulberg I-II,13.8,5,5,2,1,1,1,0,1,0,House,2120.32
+DHA Phase 7-9,5.4,4,3,25,0,1,0,0,0,1,Lower Portion,759.12
+DHA Phase 1-3,4.5,3,2,2,1,1,1,0,0,1,Flat,880.42
+Model Town,9.7,3,2,3,0,0,1,0,0,0,Flat,1191.39
+Valencia,7.4,4,3,3,0,0,0,0,0,1,House,779.77
+Johar Town,6.8,4,3,8,0,0,0,0,0,0,House,550.57
+Johar Town,6.7,4,4,5,0,0,1,0,0,0,House,659.03
+Samanabad,19.6,5,5,2,1,1,0,0,0,0,House,1367.53
+Model Town,20.4,5,5,8,1,1,0,0,0,0,Upper Portion,2514.55
+Bahria Town,10.0,5,5,25,0,1,1,0,0,1,House,1249.82
+Allama Iqbal Town,20.2,7,6,12,0,0,1,0,0,0,House,1419.75
+Johar Town,6.7,3,3,25,0,0,0,0,1,0,Upper Portion,689.67
+Valencia,10.3,4,3,2,1,1,1,0,0,1,House,1263.51
+Faisal Town,7.3,4,3,2,0,0,0,0,1,0,Upper Portion,504.73
+Township,13.8,5,4,12,1,1,0,0,1,0,House,814.97
+DHA Phase 7-9,39.9,5,4,8,1,1,0,0,0,1,Upper Portion,6419.32
+Township,13.7,5,4,18,1,1,0,0,1,0,House,1005.19
+Bahria Town,10.5,4,4,25,1,1,0,0,0,1,House,1298.81
+Gulberg III-V,14.1,5,4,18,1,1,1,0,0,0,House,2066.27
+Bahria Town,5.4,3,2,35,0,0,0,1,1,1,Flat,651.96
+Shahdara,19.8,5,4,5,1,1,0,0,0,0,House,1015.76
+Bahria Town,10.3,4,4,2,1,0,1,0,1,1,House,1256.11
+Model Town,10.3,4,3,12,1,1,0,0,0,0,Upper Portion,1430.45
+Garden Town,10.2,4,3,1,1,1,1,0,0,0,House,1382.88
+Gulberg I-II,14.5,4,3,3,1,0,1,1,0,0,House,2450.61
+DHA Phase 4-6,4.9,3,3,2,0,0,0,0,1,1,House,747.96
+DHA Phase 4-6,13.6,5,4,5,1,0,0,0,0,1,House,2184.83
+DHA Phase 4-6,7.2,4,4,1,1,0,0,0,1,1,House,1395.03
+DHA Phase 7-9,14.2,4,4,0,1,0,1,0,0,1,Upper Portion,1929.5
+DHA Phase 7-9,20.1,7,6,18,1,0,0,0,0,1,Upper Portion,2780.47
+Garden Town,19.7,5,5,12,1,1,1,0,0,0,House,2440.01
+DHA Phase 7-9,10.0,4,4,18,1,1,0,0,0,1,House,1205.04
+Model Town,9.8,4,3,18,1,1,0,1,0,0,Lower Portion,1258.48
+Samanabad,4.9,3,2,1,0,0,0,0,0,0,Flat,263.86
+Bahria Town,14.1,5,4,3,1,1,0,0,0,1,House,1455.39
+Iqbal Town,7.2,4,3,1,1,0,0,1,1,0,House,812.4
+DHA Phase 7-9,9.7,3,3,25,1,0,0,1,0,1,House,1269.31
+DHA Phase 7-9,6.9,4,4,18,0,0,0,0,0,1,Lower Portion,822.37
+DHA Phase 1-3,4.8,3,2,2,0,0,0,0,1,1,House,1123.68
+DHA Phase 7-9,13.7,4,3,5,1,1,0,0,1,1,House,2071.9
+Gulberg III-V,5.3,4,3,35,0,1,0,0,0,0,House,726.14
+DHA Phase 7-9,14.4,5,5,12,1,1,0,0,0,1,House,2076.56
+DHA Phase 4-6,6.9,3,2,25,0,0,1,0,0,1,House,1130.01
+DHA Phase 4-6,5.3,3,3,3,1,0,1,1,0,1,Flat,878.22
+Bahria Town,10.4,4,4,2,1,1,0,0,0,1,House,1324.24
+Gulberg I-II,5.3,4,4,25,1,0,0,0,0,0,Upper Portion,867.85
+Model Town,6.7,3,3,18,0,0,0,0,0,0,Upper Portion,858.47
+Bahria Town,14.5,5,4,18,1,1,0,0,0,1,House,1891.99
+Iqbal Town,4.9,2,2,12,0,0,0,0,0,0,Lower Portion,410.55
+DHA Phase 1-3,19.8,4,3,12,1,1,0,1,0,1,House,3474.2
+Allama Iqbal Town,4.6,3,3,18,1,1,0,0,0,0,Upper Portion,352.65
+Garden Town,7.0,4,4,3,0,1,1,0,0,0,Upper Portion,787.09
+DHA Phase 4-6,13.6,4,3,5,1,1,0,1,1,1,House,2469.6
+Faisal Town,6.7,3,3,25,0,0,0,0,0,0,House,537.29
+Samanabad,4.8,3,3,5,1,1,0,0,0,0,House,353.68
+DHA Phase 4-6,10.3,5,5,12,1,1,0,0,1,1,House,1725.32
+Gulberg III-V,7.4,3,2,18,0,0,1,0,1,0,Upper Portion,1329.71
+Allama Iqbal Town,19.8,4,3,35,0,0,1,0,0,0,House,1275.67
+Wapda Town,7.4,3,2,8,1,0,0,0,0,0,Upper Portion,755.53
+DHA Phase 7-9,20.4,6,6,8,1,0,1,0,0,1,House,2433.58
+Gulberg I-II,20.3,7,6,25,1,1,1,0,0,0,House,3731.15
+Johar Town,9.6,4,3,25,0,0,0,0,0,0,House,1015.7
+Bahria Town,20.2,5,4,18,0,0,0,1,0,1,House,2334.33
+Valencia,10.4,5,5,8,1,1,0,0,1,1,House,1262.3
+Johar Town,40.2,5,5,5,1,1,1,0,1,0,House,4100.59
+Bahria Town,4.8,3,3,12,0,1,0,0,0,1,Upper Portion,582.99
+Wapda Town,14.0,4,4,25,1,1,0,0,0,0,House,1595.69
+DHA Phase 1-3,10.1,4,4,25,1,1,0,0,0,1,House,1715.45
+Gulberg III-V,10.0,4,3,1,0,1,0,0,0,0,House,1387.81
+Iqbal Town,13.6,4,3,8,1,1,0,0,1,0,House,1264.67
+Samanabad,13.8,5,5,8,1,1,0,1,0,0,House,883.01
+Bahria Town,5.3,3,3,35,0,0,0,0,0,1,Lower Portion,545.78
+Lake City,7.4,3,2,18,0,0,1,0,0,1,Upper Portion,894.39
+DHA Phase 4-6,13.6,4,4,8,1,1,1,0,0,1,House,1542.16
+Bahria Town,14.5,5,5,0,1,1,1,0,0,1,House,1612.35
+Lake City,39.8,6,6,12,1,1,1,0,0,1,House,3382.9
+Gulberg I-II,14.2,5,5,1,1,1,1,0,0,0,House,2142.91
+Gulberg III-V,20.3,5,5,25,1,1,0,0,1,0,Upper Portion,3776.12
+Johar Town,14.3,4,3,18,1,1,1,1,1,0,Upper Portion,1572.75
+DHA Phase 1-3,7.4,4,3,8,1,0,0,1,1,1,House,1640.23
+Model Town,4.8,3,3,8,0,0,0,0,0,0,Flat,626.57
+Gulberg I-II,20.4,6,6,25,1,1,1,1,0,0,House,3874.4
+Model Town,13.6,5,4,3,1,1,0,0,0,0,House,1459.89
+DHA Phase 4-6,5.2,4,4,3,0,0,1,0,0,1,House,1060.85
+Samanabad,10.2,4,3,35,0,0,0,0,0,0,House,535.25
+Valencia,20.2,5,5,25,1,1,0,0,0,1,House,2287.51
+Iqbal Town,9.8,3,2,25,0,0,1,1,1,0,House,930.77
+Allama Iqbal Town,10.4,5,4,2,1,1,0,0,0,0,House,854.95
+Bahria Town,9.7,3,3,1,0,1,0,0,0,1,Flat,1137.34
+DHA Phase 4-6,6.6,3,3,0,1,0,1,0,0,1,House,977.76
+Lake City,10.2,5,4,3,1,1,0,1,0,1,House,1212.47
+Valencia,10.0,3,3,25,0,0,0,0,1,1,Upper Portion,1316.72
+Wapda Town,5.3,4,3,3,0,0,1,0,0,0,House,514.17
+Johar Town,13.9,4,4,18,1,1,0,0,0,0,House,1625.11
+DHA Phase 4-6,9.7,3,3,3,0,0,1,0,0,1,House,1482.22
+Gulberg III-V,20.3,6,6,5,1,1,0,0,0,0,House,3005.97
+Model Town,20.0,5,4,35,0,0,1,0,0,0,House,3119.12
+Garden Town,6.7,3,2,3,1,0,0,0,1,0,House,810.45
+Lake City,14.2,4,4,5,0,1,0,0,1,1,House,1774.68
+Model Town,10.0,4,3,5,1,0,1,0,0,0,House,1701.99
+Shahdara,20.1,6,6,1,1,1,0,1,1,0,House,1074.86
+Valencia,7.0,3,2,8,0,1,1,0,0,1,Lower Portion,792.9
+Gulberg I-II,14.3,4,4,5,0,1,0,0,0,0,House,2246.45
+DHA Phase 4-6,14.3,4,3,18,1,1,1,0,0,1,House,2802.97
+DHA Phase 7-9,7.2,4,3,25,1,0,0,0,0,1,House,1143.66
+Gulberg III-V,4.6,2,2,12,0,0,0,0,1,0,Upper Portion,761.37
+DHA Phase 7-9,14.3,4,3,0,1,1,0,0,0,1,House,1958.3
+DHA Phase 7-9,14.2,5,4,12,1,1,1,1,0,1,House,2231.34
+Gulberg III-V,7.2,4,3,0,0,0,0,0,0,0,House,1069.87
+DHA Phase 7-9,13.9,5,5,12,1,0,0,0,0,1,House,1693.47
+Samanabad,10.4,4,4,18,1,1,0,0,1,0,Upper Portion,725.42
+DHA Phase 4-6,14.2,4,3,2,1,1,0,0,0,1,House,2883.26
+Bahria Town,6.6,3,3,25,1,0,0,0,0,1,Lower Portion,638.13
+Johar Town,19.9,4,3,35,1,1,0,0,0,0,Upper Portion,1689.71
+Shahdara,7.4,3,3,25,0,0,0,0,0,0,House,339.2
+DHA Phase 4-6,9.5,3,3,5,0,0,1,0,1,1,House,1833.65
+Johar Town,5.5,4,4,12,1,0,0,0,1,0,Upper Portion,486.82
+Shahdara,5.2,4,4,35,0,1,0,0,0,0,Lower Portion,200.47
+Faisal Town,10.1,4,3,5,1,0,1,1,0,0,House,826.71
+Allama Iqbal Town,6.8,3,3,25,0,0,0,0,0,0,House,526.43
+Gulberg III-V,19.7,5,5,0,1,1,0,0,0,0,House,2635.06
+DHA Phase 7-9,5.4,3,3,0,0,0,0,0,1,1,Upper Portion,828.71
+Iqbal Town,9.8,4,3,18,1,0,1,0,0,0,Upper Portion,836.76
+Township,7.3,3,3,18,0,1,1,0,0,0,Upper Portion,367.42
+Lake City,4.9,2,2,25,0,0,0,0,0,1,House,531.42
+Lake City,4.6,2,2,35,1,0,1,1,0,1,Lower Portion,380.64
+Gulberg III-V,9.5,3,3,1,0,0,0,0,0,0,Flat,1285.11
+Wapda Town,10.0,5,4,3,1,0,0,1,1,0,House,1062.89
+DHA Phase 7-9,10.5,4,4,35,1,1,1,0,0,1,House,1130.97
+Model Town,9.9,3,3,2,1,1,0,0,0,0,Flat,915.49
+Johar Town,9.9,4,4,18,1,1,0,1,0,0,Upper Portion,723.65
+Bahria Town,4.8,3,3,12,0,1,1,0,0,1,Lower Portion,656.45
+Gulberg I-II,10.0,4,4,1,1,1,0,0,0,0,House,1752.68
+DHA Phase 4-6,39.9,6,6,3,1,0,1,0,0,1,House,6205.3
+Valencia,10.4,5,5,12,1,1,0,0,1,1,House,1479.12
+Gulberg III-V,14.0,5,4,25,1,1,0,0,0,0,Upper Portion,1922.24
+Valencia,7.0,4,3,18,0,0,0,0,0,1,House,897.93
+DHA Phase 7-9,13.6,5,5,12,1,1,0,0,0,1,House,1880.78
+Bahria Town,14.5,4,4,8,0,1,0,0,0,1,House,1585.37
+Lake City,9.7,4,3,3,0,0,1,0,0,1,Upper Portion,1114.49
+DHA Phase 1-3,39.6,5,5,1,1,1,0,0,1,1,Upper Portion,7980.49
+Model Town,5.2,3,2,8,1,0,0,0,0,0,Upper Portion,663.16
+DHA Phase 7-9,5.1,3,2,0,0,0,0,0,0,1,Lower Portion,639.02
+DHA Phase 4-6,13.9,4,4,2,1,0,0,0,0,1,House,2258.41
+Shahdara,19.9,4,4,8,0,1,0,0,0,0,House,692.72
+Model Town,5.3,4,3,8,0,0,0,1,0,0,Upper Portion,741.41
+Allama Iqbal Town,6.7,4,3,0,1,0,0,0,1,0,Lower Portion,429.8
+Gulberg III-V,5.3,3,3,12,0,1,0,1,0,0,Flat,857.01
+Iqbal Town,7.1,4,4,12,1,0,0,0,0,0,House,645.98
+Wapda Town,13.9,4,3,0,1,1,0,0,0,0,House,1355.51
+Valencia,10.0,3,2,35,0,1,0,0,1,1,House,1299.32
+Bahria Town,6.8,4,3,1,0,0,0,0,1,1,Lower Portion,696.93
+Johar Town,10.3,5,5,25,1,1,1,0,1,0,House,1132.12
+Model Town,5.0,4,4,0,1,0,0,0,0,0,Flat,721.11
+Township,6.8,4,4,25,1,1,1,0,0,0,Flat,407.12
+Allama Iqbal Town,14.1,4,3,0,1,1,1,0,1,0,Upper Portion,961.37
+Shahdara,40.5,6,5,18,1,0,0,0,0,0,House,2039.52
+DHA Phase 4-6,19.9,4,4,5,1,0,0,0,0,1,House,3609.99
+Wapda Town,5.4,3,2,18,0,0,0,1,0,0,Upper Portion,502.03
+Township,19.8,5,4,8,0,1,0,0,1,0,House,1016.62
+DHA Phase 7-9,19.6,4,3,0,1,1,0,1,1,1,House,2511.42
+DHA Phase 4-6,19.7,4,3,18,1,1,1,0,1,1,House,3284.98
+Wapda Town,9.9,3,2,0,0,0,0,0,0,0,House,1013.98
+Lake City,9.7,4,4,35,0,0,0,0,0,1,Flat,826.46
+Faisal Town,6.5,4,4,0,0,0,0,0,1,0,Lower Portion,485.77
+DHA Phase 7-9,5.4,3,3,8,1,1,0,0,0,1,Lower Portion,700.39
+Allama Iqbal Town,7.3,3,3,18,1,1,0,1,1,0,House,593.1
+Gulberg I-II,7.2,3,3,5,0,0,0,0,1,0,House,1069.52
+DHA Phase 7-9,9.7,3,2,2,0,0,1,0,0,1,Upper Portion,1273.68
+DHA Phase 7-9,13.6,4,3,18,1,1,0,0,0,1,House,1776.88
+Allama Iqbal Town,9.6,4,3,25,0,0,0,0,0,0,House,607.22
+Iqbal Town,5.2,3,3,35,1,0,0,0,0,0,House,436.66
+Bahria Town,20.4,5,4,5,1,1,0,0,0,1,House,2211.31
+Model Town,19.9,4,3,8,1,1,0,0,0,0,House,2808.62
+Faisal Town,19.6,4,3,5,1,1,0,0,0,0,House,1425.36
+Johar Town,40.0,5,5,3,1,1,0,0,0,0,House,4029.69
+Allama Iqbal Town,9.8,3,2,18,0,0,0,0,1,0,Upper Portion,625.95
+Johar Town,39.9,7,6,5,1,0,1,0,0,0,House,3713.32
+Johar Town,5.1,4,4,8,1,0,1,0,0,0,Upper Portion,563.75
+Bahria Town,10.2,4,4,8,1,1,1,0,1,1,Upper Portion,1260.7
+Gulberg III-V,6.6,3,2,18,1,0,1,0,0,0,Lower Portion,890.41
+Wapda Town,6.5,3,3,35,0,0,0,0,1,0,Lower Portion,525.68
+Bahria Town,5.5,3,2,18,0,0,0,0,0,1,Upper Portion,507.0
+Gulberg I-II,13.7,4,4,8,1,0,1,1,0,0,House,2828.33
+Samanabad,19.6,4,3,25,1,1,0,1,0,0,House,1302.67
+Johar Town,9.7,3,2,12,0,0,1,1,1,0,House,1097.33
+Lake City,4.5,2,2,0,1,0,0,0,0,1,House,439.11
+Samanabad,19.9,4,4,1,1,0,1,0,0,0,Upper Portion,1132.05
+Garden Town,14.3,4,4,0,1,1,1,0,1,0,House,1800.06
+DHA Phase 4-6,9.8,4,4,8,0,0,1,0,0,1,Flat,1282.4
+Township,13.9,5,4,25,1,1,0,1,0,0,House,932.93
+Garden Town,7.2,3,3,5,0,1,0,0,0,0,Flat,1066.05
+Model Town,7.0,3,2,5,0,0,1,0,1,0,Upper Portion,1172.16
+DHA Phase 7-9,20.4,6,5,35,1,0,0,1,0,1,House,2393.92
+Allama Iqbal Town,7.4,4,3,25,1,0,1,1,1,0,House,616.73
+Valencia,9.5,3,3,18,0,0,0,0,0,1,Flat,1314.77
+Lake City,20.3,7,6,3,1,1,0,1,0,1,House,2201.32
+Samanabad,14.0,4,3,1,1,1,1,0,0,0,Upper Portion,817.52
+Allama Iqbal Town,5.5,3,3,0,1,0,0,1,1,0,House,375.2
+DHA Phase 7-9,5.0,2,2,1,0,0,0,0,0,1,Flat,775.06
+Model Town,5.5,4,3,3,0,0,0,0,0,0,Upper Portion,724.12
+Gulberg III-V,14.3,5,4,12,1,0,0,0,0,0,House,1912.01
+Wapda Town,9.7,4,4,0,0,0,0,0,0,0,Lower Portion,919.41
+DHA Phase 1-3,5.0,3,2,1,1,0,0,0,0,1,Flat,992.38
+Lake City,20.5,6,5,2,1,1,0,0,0,1,House,2301.74
+Wapda Town,10.4,4,3,12,1,1,0,0,1,0,House,982.26
+Faisal Town,6.6,3,3,12,0,1,0,0,0,0,Lower Portion,592.08
+Model Town,10.2,4,4,12,1,0,0,0,0,0,House,1353.76
+Allama Iqbal Town,13.8,4,4,3,1,1,0,0,0,0,House,1268.91
+DHA Phase 4-6,4.5,2,2,5,0,0,0,1,1,1,House,873.25
+Faisal Town,6.9,3,2,1,0,0,0,0,0,0,House,595.03
+DHA Phase 4-6,19.7,4,3,3,1,1,0,0,1,1,House,3271.32
+Johar Town,10.3,4,3,25,1,0,0,0,0,0,Upper Portion,1117.53
+Allama Iqbal Town,9.8,4,3,35,0,0,1,0,0,0,Upper Portion,697.2
+DHA Phase 7-9,10.3,4,4,12,1,1,0,0,1,1,House,1282.11
+Gulberg I-II,4.5,3,2,35,0,0,0,0,0,0,House,656.12
+Wapda Town,6.8,3,2,12,1,0,0,0,0,0,Lower Portion,630.96
+Wapda Town,9.7,4,4,0,1,0,1,0,0,0,Upper Portion,840.72
+Garden Town,6.7,3,3,35,0,0,1,0,0,0,House,831.84
+Iqbal Town,4.6,2,2,1,1,1,0,0,0,0,Upper Portion,456.96
+Lake City,19.7,4,4,18,1,1,0,0,0,1,House,2205.06
+Gulberg III-V,40.1,5,5,3,1,1,0,0,1,0,Upper Portion,5293.23
+Model Town,19.8,5,5,5,1,1,0,0,0,0,Upper Portion,3069.59
+DHA Phase 7-9,19.9,5,4,12,1,1,0,0,1,1,House,2875.66
+Samanabad,6.9,3,3,8,1,0,0,0,0,0,House,498.56
+Valencia,40.4,5,4,3,1,1,0,0,1,1,House,3527.72
+Johar Town,7.4,4,4,5,0,1,0,0,0,0,Lower Portion,755.36
+Bahria Town,20.0,5,4,5,1,0,0,1,0,1,House,2567.36
+Township,39.8,5,4,35,1,1,0,0,1,0,House,2703.2
+DHA Phase 7-9,13.6,5,4,25,0,1,0,1,0,1,House,1530.29
+Valencia,40.5,5,5,8,1,1,1,0,0,1,Upper Portion,5530.26
+Bahria Town,9.6,3,3,2,1,0,1,0,0,1,Lower Portion,1325.92
+Valencia,6.8,4,4,25,0,1,0,0,0,1,Upper Portion,621.37
+DHA Phase 1-3,9.8,3,2,2,0,0,0,1,0,1,Flat,1955.45
+Faisal Town,9.8,3,3,2,1,0,0,0,0,0,Lower Portion,823.84
+Township,4.7,3,3,5,0,0,1,0,0,0,Flat,277.85
+Lake City,14.3,4,3,25,1,1,0,0,0,1,House,1458.79
+Iqbal Town,39.6,6,6,1,1,0,0,0,1,0,Upper Portion,3695.82
+Samanabad,7.1,3,2,1,0,0,0,0,0,0,Lower Portion,370.38
+Iqbal Town,19.6,4,4,8,0,0,0,0,0,0,House,1653.94
+DHA Phase 7-9,19.6,5,4,3,0,1,0,0,0,1,House,2897.02
+Valencia,20.4,6,5,12,1,1,0,0,0,1,House,3023.67
+Valencia,39.7,5,5,8,1,1,0,0,0,1,House,5058.51
+Johar Town,10.3,5,4,8,0,1,1,0,0,0,House,1101.69
+Wapda Town,40.0,7,7,1,1,0,1,0,0,0,House,3535.03
+Township,13.6,4,4,1,1,1,1,0,0,0,House,743.12
+Township,7.5,4,4,25,0,1,0,1,1,0,House,536.45
+Bahria Town,9.7,3,3,25,1,0,1,0,0,1,Flat,1102.85
+DHA Phase 4-6,14.4,4,3,3,1,1,1,0,0,1,House,2789.38
+Shahdara,6.7,3,2,1,0,1,1,0,0,0,Upper Portion,322.65
+Allama Iqbal Town,14.4,5,4,0,1,0,1,0,0,0,House,1033.94
+DHA Phase 4-6,13.5,4,4,12,1,0,0,0,0,1,Upper Portion,2358.26
+Samanabad,7.0,3,3,18,1,0,1,0,0,0,Lower Portion,403.45
+Faisal Town,10.3,5,4,5,1,1,0,1,0,0,House,772.81
+Bahria Town,14.4,4,3,18,1,1,0,0,0,1,House,2034.26
+Valencia,10.4,5,5,18,1,0,1,0,0,1,House,1221.5
+Johar Town,5.3,3,3,35,0,0,0,0,1,0,House,574.73
+DHA Phase 1-3,5.4,4,4,0,0,0,0,0,0,1,House,1170.0
+Model Town,9.7,3,2,2,1,0,0,0,0,0,House,1109.38
+Allama Iqbal Town,19.8,4,4,0,1,1,1,0,0,0,Upper Portion,1303.36
+DHA Phase 1-3,6.8,4,3,25,1,0,0,0,0,1,Lower Portion,1195.22
+Model Town,13.9,5,5,25,1,0,0,0,0,0,House,1654.71
+Johar Town,6.9,3,2,12,0,0,1,0,1,0,House,869.29
+Lake City,7.0,4,4,1,1,0,1,1,0,1,House,852.16
+Samanabad,19.7,4,3,3,1,1,0,0,0,0,Upper Portion,1314.4
+Model Town,14.2,4,3,3,1,1,0,0,1,0,House,2042.97
+Model Town,4.7,2,2,12,1,0,0,0,0,0,House,649.74
+Wapda Town,9.8,3,3,3,1,0,0,0,0,0,Lower Portion,896.56
+Bahria Town,5.0,3,2,0,0,0,1,0,0,1,Upper Portion,696.96
+Gulberg I-II,10.3,4,3,18,1,0,0,0,0,0,House,1599.34
+Bahria Town,14.2,4,4,3,1,1,0,1,0,1,House,2053.33
+DHA Phase 7-9,5.1,4,3,8,1,0,0,0,0,1,House,633.24
+DHA Phase 7-9,6.7,4,3,1,0,0,0,1,1,1,House,1069.45
+Bahria Town,10.0,4,4,25,1,1,0,0,0,1,Upper Portion,955.84
+Johar Town,19.6,5,4,12,1,1,0,0,1,0,House,1913.43
+Samanabad,39.9,7,7,35,1,1,0,0,0,0,House,2423.16
+Model Town,4.9,3,2,8,0,0,0,0,0,0,House,622.17
+Valencia,13.5,5,5,35,1,1,0,0,0,1,House,1615.65
+Garden Town,9.8,3,2,25,0,0,0,0,0,0,Lower Portion,961.59
+DHA Phase 1-3,10.5,5,4,12,0,0,0,0,0,1,Upper Portion,1714.47
+Iqbal Town,14.5,4,3,35,1,1,0,1,0,0,Upper Portion,1309.72
+DHA Phase 7-9,19.9,5,5,5,0,0,0,0,0,1,House,2677.8
+Township,19.5,4,3,5,1,0,1,0,1,0,House,1069.62
+DHA Phase 7-9,9.7,3,2,0,0,0,0,0,0,1,House,1532.41
+Johar Town,9.9,4,4,12,1,1,0,0,0,0,House,873.66
+DHA Phase 4-6,20.4,7,7,18,1,1,0,0,0,1,House,3292.42
+Shahdara,6.6,4,4,25,1,1,0,0,1,0,House,332.21
+Bahria Town,10.3,5,4,1,1,1,1,0,0,1,House,1361.17
+Valencia,9.6,3,2,8,0,0,0,0,0,1,House,1183.01
+DHA Phase 4-6,14.5,4,3,2,1,1,1,0,1,1,House,2451.96
+Wapda Town,6.9,3,3,18,0,0,1,1,0,0,House,532.02
+Gulberg I-II,7.3,3,3,2,0,1,0,0,0,0,House,1407.92
+Samanabad,19.8,5,4,35,1,1,0,0,0,0,House,1162.1
+Gulberg I-II,5.1,3,2,3,1,0,0,1,0,0,House,949.07
+DHA Phase 7-9,9.7,3,3,3,0,0,0,0,0,1,House,1205.49
+DHA Phase 1-3,6.6,3,3,25,0,1,1,0,0,1,House,1132.91
+Bahria Town,5.4,3,3,8,0,0,0,0,0,1,House,776.27
+Lake City,5.4,4,3,0,0,0,0,1,0,1,Lower Portion,484.48
+DHA Phase 4-6,7.4,4,4,8,0,0,1,0,0,1,House,1127.22
+Allama Iqbal Town,20.1,5,5,1,0,0,0,1,0,0,House,1798.84
+Bahria Town,7.3,4,4,35,1,0,0,0,1,1,House,930.5
+Bahria Town,19.6,4,4,12,1,1,0,0,0,1,Upper Portion,2134.62
+Johar Town,9.8,4,3,3,1,0,0,1,1,0,House,1210.97
+Johar Town,9.8,3,3,12,0,0,0,0,1,0,Flat,1021.84
+Lake City,10.1,5,4,0,1,0,0,0,1,1,House,1203.8
+DHA Phase 7-9,9.9,3,2,25,1,0,0,1,1,1,House,1396.58
+DHA Phase 7-9,13.6,5,5,35,1,1,1,0,0,1,House,1965.75
+Faisal Town,7.1,4,4,25,0,0,0,1,0,0,House,629.01
+Township,10.3,4,3,5,1,1,1,0,0,0,Upper Portion,788.9
+Johar Town,19.9,4,4,5,1,0,0,0,1,0,House,1963.0
+Gulberg III-V,19.6,5,4,0,0,1,0,0,0,0,House,2820.77
+Garden Town,19.7,4,4,18,0,1,0,0,0,0,House,2101.29
+Johar Town,9.7,3,2,12,1,0,1,0,0,0,Upper Portion,964.36
+DHA Phase 1-3,19.8,5,4,8,1,1,0,0,0,1,Upper Portion,4498.47
+DHA Phase 7-9,10.1,4,3,35,1,1,1,0,1,1,House,1565.46
+Iqbal Town,10.1,4,4,2,1,1,0,0,0,0,Upper Portion,838.97
+Garden Town,7.2,3,2,0,1,0,0,0,0,0,Lower Portion,890.92
+DHA Phase 1-3,9.9,3,2,0,0,0,0,0,0,1,House,1569.77
+Gulberg I-II,7.3,3,3,3,0,1,1,0,0,0,House,1150.81
+Gulberg I-II,6.7,4,4,0,1,0,0,0,0,0,Lower Portion,1170.61
+Iqbal Town,20.0,4,3,8,1,0,0,0,0,0,House,1634.3
+DHA Phase 1-3,7.3,3,2,5,0,0,0,0,0,1,Upper Portion,1185.38
+DHA Phase 4-6,4.7,3,3,2,0,1,0,0,1,1,Flat,877.23
+Allama Iqbal Town,4.6,3,2,18,1,0,1,1,0,0,House,392.69
+DHA Phase 7-9,20.4,5,5,2,1,1,0,0,0,1,House,2246.41
+Garden Town,9.8,4,4,18,1,0,0,0,0,0,House,942.93
+Gulberg I-II,10.2,4,4,5,1,0,0,1,0,0,House,1682.07
+DHA Phase 4-6,19.5,5,4,8,1,1,0,0,1,1,House,2661.23
+Gulberg I-II,20.2,6,6,35,1,0,1,0,0,0,House,2693.82
+Wapda Town,6.8,3,2,0,1,1,0,0,0,0,Flat,748.58
+Faisal Town,13.6,4,3,8,1,1,1,0,0,0,House,1124.01
+Allama Iqbal Town,14.1,5,5,25,0,1,0,0,0,0,House,1013.02
+Johar Town,13.7,4,4,12,1,1,0,0,0,0,House,1367.1
+Iqbal Town,6.9,3,3,3,1,1,0,0,1,0,House,564.22
+Gulberg I-II,19.6,4,4,5,1,0,0,0,0,0,House,3534.75
+Gulberg III-V,9.6,3,2,18,1,0,1,0,0,0,House,1399.25
+Samanabad,6.8,4,3,25,0,0,1,0,0,0,House,388.36
+DHA Phase 1-3,9.6,3,3,0,0,0,1,0,1,1,Upper Portion,1683.9
+DHA Phase 4-6,5.4,4,3,0,1,0,1,0,1,1,Flat,838.43
+Gulberg I-II,4.5,2,2,5,1,0,0,0,0,0,Upper Portion,727.73
+DHA Phase 1-3,14.0,4,3,3,1,1,1,0,0,1,House,2586.0
+DHA Phase 7-9,4.6,2,2,3,0,1,0,1,0,1,Lower Portion,604.45
+Valencia,9.8,4,3,3,1,1,0,1,1,1,House,1290.48
+Johar Town,10.4,5,5,2,1,1,0,0,0,0,House,1093.14
+Samanabad,4.7,2,2,1,0,0,0,1,1,0,Upper Portion,312.63
+Allama Iqbal Town,40.5,6,5,35,1,1,0,0,0,0,House,3271.4
+Model Town,6.7,4,3,1,0,0,1,0,0,0,House,1003.95
+Gulberg III-V,7.2,4,3,2,0,0,0,0,0,0,House,1203.21
+Johar Town,7.0,4,4,3,0,0,0,0,1,0,House,670.61
+Valencia,7.4,4,3,35,1,0,0,0,0,1,House,848.34
+Gulberg III-V,5.1,4,4,18,1,1,1,0,1,0,House,867.84
+Garden Town,14.0,4,4,25,1,0,0,1,1,0,House,1944.79
+Johar Town,39.7,5,4,1,0,1,1,0,0,0,House,3636.42
+Lake City,6.7,3,2,25,1,1,0,0,0,1,Upper Portion,767.25
+Johar Town,14.4,4,4,8,1,0,0,1,0,0,House,1317.4
+Gulberg III-V,13.8,4,4,3,1,1,0,0,0,0,House,2168.21
+Township,19.9,4,4,12,1,1,0,0,0,0,House,1153.28
+Wapda Town,10.3,5,4,25,1,0,0,0,0,0,House,809.81
+DHA Phase 7-9,6.8,4,3,25,0,0,0,0,0,1,House,880.18
+Faisal Town,7.5,4,4,25,1,0,1,0,0,0,Upper Portion,758.08
+Bahria Town,14.2,4,4,35,0,1,0,1,0,1,House,1677.64
+Samanabad,20.1,5,5,3,1,1,0,0,1,0,Upper Portion,1586.39
+Allama Iqbal Town,7.4,4,3,8,0,0,1,0,1,0,Flat,475.15
+Johar Town,9.5,3,2,0,1,1,0,0,0,0,Lower Portion,1024.78
+DHA Phase 1-3,19.8,4,4,25,1,1,1,0,1,1,House,2572.87
+Gulberg III-V,20.0,5,4,2,1,0,1,0,0,0,House,2946.92
+Lake City,39.7,6,6,25,1,1,0,0,0,1,House,4547.29
+Garden Town,14.2,4,3,5,1,0,0,1,0,0,Upper Portion,1990.47
+Gulberg III-V,10.4,5,5,5,0,0,1,0,0,0,House,1417.11
+DHA Phase 7-9,9.9,3,2,0,0,0,0,1,1,1,House,1564.55
+Allama Iqbal Town,13.8,4,3,5,1,0,0,0,0,0,House,977.34
+Shahdara,5.5,3,2,25,0,0,1,1,1,0,Flat,276.45
+Bahria Town,9.9,4,3,0,1,0,0,0,0,1,Lower Portion,1081.58
+DHA Phase 7-9,14.0,4,3,8,1,0,0,1,0,1,House,1661.26
+Gulberg III-V,6.9,4,3,0,0,0,1,0,0,0,Upper Portion,1208.31
+DHA Phase 1-3,20.4,6,5,5,1,0,0,0,1,1,Upper Portion,3828.97
+Samanabad,10.1,4,4,2,1,0,1,0,0,0,House,760.85
+DHA Phase 4-6,20.3,5,5,3,0,1,0,0,0,1,House,3818.48
+Valencia,5.3,3,3,25,0,1,0,0,1,1,House,596.58
+Gulberg III-V,6.8,3,2,8,0,1,1,0,0,0,Lower Portion,1123.46
+Lake City,13.9,5,4,3,1,1,0,0,0,1,House,1653.82
+Garden Town,7.3,4,3,12,0,0,0,0,0,0,Lower Portion,775.8
+Allama Iqbal Town,13.9,4,4,1,1,0,0,1,0,0,House,1139.99
+Gulberg I-II,14.3,4,4,3,1,1,0,1,0,0,House,2204.67
+DHA Phase 1-3,5.4,4,4,12,1,0,1,0,0,1,House,1299.24
+DHA Phase 7-9,10.1,4,4,3,1,1,0,0,0,1,House,1557.04
+Samanabad,10.2,5,5,18,1,1,0,0,0,0,House,656.48
+Faisal Town,10.3,4,4,8,1,1,0,0,1,0,House,1014.48
+Valencia,20.3,5,4,25,1,1,0,0,0,1,House,1991.27
+Valencia,19.9,4,4,35,1,1,0,0,0,1,House,2168.01
+Iqbal Town,13.6,5,4,1,1,0,0,0,0,0,House,1181.67
+DHA Phase 7-9,13.9,4,4,5,1,1,0,0,1,1,House,2433.51
+Samanabad,10.2,4,4,5,1,1,0,0,0,0,House,579.28
+Johar Town,20.0,5,4,2,0,1,0,0,0,0,House,1599.91
+Johar Town,14.2,5,4,25,1,0,1,0,0,0,House,1196.01
+Bahria Town,13.9,4,3,18,1,0,0,0,0,1,House,1769.78
+DHA Phase 1-3,20.1,7,7,8,0,0,0,1,0,1,House,3527.68
+DHA Phase 7-9,6.7,4,4,12,1,0,0,0,0,1,House,930.13
+Wapda Town,20.2,7,6,0,0,1,0,0,0,0,House,2116.16
+DHA Phase 4-6,7.0,3,3,12,1,0,1,0,0,1,House,1207.57
+Valencia,6.7,4,3,25,1,1,0,0,0,1,House,869.67
+Gulberg III-V,6.8,3,3,12,0,0,1,0,0,0,House,1077.26
+Johar Town,40.2,5,5,3,1,0,0,0,0,0,House,3793.03
+Gulberg III-V,20.0,5,5,18,1,1,0,0,1,0,House,2873.98
+Model Town,13.7,4,3,5,1,1,0,0,0,0,House,1901.23
+Wapda Town,14.5,4,4,12,1,0,0,0,1,0,House,1521.03
+Gulberg III-V,10.2,4,3,8,1,1,0,1,0,0,House,1398.79
+Lake City,20.5,6,5,5,1,1,0,0,0,1,House,1433.2
+Bahria Town,9.9,3,2,18,1,0,0,0,0,1,House,1242.64
+Iqbal Town,10.0,3,2,25,1,0,1,0,0,0,Upper Portion,938.4
+Township,7.4,4,3,0,0,0,0,0,0,0,Lower Portion,415.48
+Wapda Town,20.0,7,6,35,1,1,0,0,0,0,House,1941.33
+Gulberg I-II,14.2,5,4,8,1,0,0,0,0,0,Upper Portion,2269.2
+DHA Phase 1-3,9.8,3,2,18,0,0,0,0,0,1,House,1920.65
+Gulberg III-V,4.9,3,2,25,1,0,0,0,0,0,House,792.48
+Valencia,19.6,5,5,8,1,1,1,0,0,1,Upper Portion,2410.17
+DHA Phase 1-3,4.7,3,2,25,1,0,1,0,0,1,Lower Portion,1127.47
+Bahria Town,13.5,4,4,2,1,1,0,0,0,1,House,1296.39
+Valencia,39.5,6,5,2,1,1,1,0,0,1,Upper Portion,4833.81
+Model Town,10.5,5,5,18,1,0,1,1,0,0,House,1254.29
+Wapda Town,6.7,4,4,25,1,0,0,0,0,0,House,710.95
+DHA Phase 4-6,14.2,5,5,25,1,0,0,0,1,1,House,1933.22
+DHA Phase 4-6,20.3,7,7,12,1,1,0,0,0,1,House,2883.56
+Wapda Town,10.1,4,4,12,1,1,1,1,0,0,House,941.21
+Bahria Town,39.7,7,7,5,1,0,0,0,0,1,House,4654.05
+Iqbal Town,5.2,3,2,35,0,0,0,0,0,0,Upper Portion,365.17
+Johar Town,10.1,4,3,5,0,0,0,0,1,0,Upper Portion,935.58
+Gulberg III-V,14.2,5,4,18,1,1,0,0,0,0,House,2047.63
+Allama Iqbal Town,20.3,5,4,12,1,0,0,0,1,0,Upper Portion,1445.02
+Allama Iqbal Town,7.5,3,2,12,1,0,0,0,0,0,Upper Portion,631.07
+Iqbal Town,20.1,6,5,5,0,0,0,0,0,0,House,1906.72
+Gulberg III-V,9.8,3,3,35,1,1,0,1,0,0,House,1387.62
+Valencia,10.1,4,3,12,1,1,0,0,0,1,House,1591.3
+Model Town,4.6,3,3,35,0,0,1,1,1,0,House,675.0
+DHA Phase 4-6,20.4,7,7,0,1,0,0,0,0,1,House,3049.36
+Samanabad,6.6,3,3,12,0,1,0,0,0,0,Lower Portion,379.57
+DHA Phase 7-9,6.8,4,4,18,0,0,0,0,0,1,House,1003.19
+Township,7.3,3,3,18,0,0,0,0,0,0,Upper Portion,354.33
+Bahria Town,20.1,5,5,35,1,1,0,0,0,1,House,1999.24
+DHA Phase 7-9,13.9,4,3,0,1,0,0,0,1,1,House,1929.99
+Lake City,20.0,4,4,0,1,1,1,0,1,1,House,2120.44
+Faisal Town,7.4,4,4,8,0,0,0,1,0,0,Flat,728.46
+Wapda Town,13.8,4,3,0,1,1,0,0,0,0,House,1449.86
+Allama Iqbal Town,10.4,4,3,35,0,1,0,0,0,0,House,688.57
+Garden Town,19.6,5,4,3,1,0,0,0,0,0,House,2616.89
+Iqbal Town,20.3,7,6,8,1,0,0,0,1,0,House,2090.28
+Faisal Town,5.3,4,3,0,0,1,0,0,0,0,Upper Portion,369.83
+Gulberg III-V,13.7,5,4,12,1,0,0,0,1,0,House,1776.9
+Bahria Town,4.9,2,2,5,1,0,0,1,1,1,House,644.44
+Gulberg I-II,9.7,3,3,0,0,0,0,0,0,0,Upper Portion,1649.49
+Shahdara,7.2,3,2,5,0,1,0,0,0,0,Flat,342.24
+Township,7.0,3,3,5,0,1,0,1,1,0,Flat,430.53
+DHA Phase 1-3,10.1,4,3,35,1,1,1,0,0,1,Upper Portion,1810.41
+Iqbal Town,13.7,5,4,2,1,1,0,0,0,0,Upper Portion,1265.12
+Township,6.7,3,3,12,0,0,0,0,1,0,Lower Portion,401.97
+DHA Phase 7-9,13.5,5,4,35,1,0,0,1,0,1,House,1731.82
+Lake City,9.8,4,3,25,0,0,0,0,0,1,House,1371.45
+Samanabad,5.1,3,2,35,1,0,0,0,0,0,Lower Portion,299.55
+DHA Phase 1-3,20.4,7,6,35,1,1,1,1,1,1,House,4464.86
+Iqbal Town,7.2,3,2,8,0,0,0,0,0,0,Flat,652.99
+Gulberg III-V,9.9,4,3,18,1,0,0,0,0,0,Upper Portion,1769.31
+Samanabad,14.5,5,4,1,1,1,0,0,1,0,House,908.25
+Shahdara,7.2,3,3,8,0,0,0,0,1,0,Lower Portion,285.76
+Township,5.4,4,3,25,0,0,1,0,1,0,Lower Portion,273.12
+Bahria Town,10.0,4,4,8,0,1,1,0,1,1,Upper Portion,1046.82
+Faisal Town,19.8,4,4,18,1,1,0,0,0,0,House,1614.45
+Faisal Town,13.6,4,4,18,1,1,0,1,0,0,House,1172.85
+Model Town,14.2,5,5,3,1,1,0,0,0,0,House,1981.52
+Allama Iqbal Town,13.6,4,4,25,1,1,0,0,0,0,Upper Portion,981.96
+DHA Phase 1-3,6.8,3,3,8,0,0,1,0,0,1,Upper Portion,1305.64
+Valencia,10.0,4,4,2,1,1,0,1,0,1,House,1574.25
+Gulberg I-II,14.1,4,3,25,1,0,0,1,0,0,House,2606.92
+DHA Phase 4-6,5.1,4,3,8,1,0,0,0,1,1,Upper Portion,989.46
+DHA Phase 4-6,6.7,3,2,18,0,1,0,1,0,1,Flat,1161.26
+Iqbal Town,6.9,4,4,12,0,0,0,0,0,0,House,496.04
+Model Town,10.1,5,4,5,1,1,0,1,1,0,House,1118.53
+Wapda Town,40.5,5,5,25,1,1,1,1,1,0,House,4740.08
+DHA Phase 4-6,5.2,4,4,12,0,0,0,0,0,1,House,855.19
+Model Town,10.4,5,4,5,1,1,0,0,0,0,Upper Portion,1298.64
+Lake City,7.3,3,3,1,0,0,0,0,0,1,Upper Portion,816.14
+Allama Iqbal Town,40.1,6,6,25,0,0,0,0,1,0,House,3111.86
+Model Town,4.7,3,2,0,0,0,0,0,0,0,Upper Portion,663.83
+Garden Town,10.2,5,5,25,1,1,0,0,0,0,House,1586.62
+Faisal Town,14.1,4,3,5,1,1,0,0,0,0,House,1376.13
+Valencia,14.1,5,5,12,1,0,1,0,0,1,House,1590.53
+Gulberg I-II,10.0,3,3,35,0,0,1,1,0,0,House,1919.69
+DHA Phase 1-3,7.0,4,3,2,1,1,1,0,0,1,Lower Portion,1286.08
+Faisal Town,9.8,4,3,12,1,0,0,0,1,0,Upper Portion,780.0
+DHA Phase 1-3,7.0,4,3,18,0,0,1,0,0,1,Flat,1153.24
+Faisal Town,6.7,4,4,18,1,1,0,1,1,0,House,485.6
+Lake City,10.3,4,4,12,1,0,1,0,0,1,House,1166.3
+Township,6.7,3,2,12,0,0,0,0,0,0,Upper Portion,314.62
+Allama Iqbal Town,6.6,3,2,18,0,0,0,1,1,0,Flat,549.92
+Shahdara,13.9,5,4,25,1,0,0,1,0,0,House,673.1
+Model Town,40.2,6,6,18,1,0,1,0,1,0,House,5515.53
+Wapda Town,13.9,4,4,5,0,1,1,0,1,0,House,1577.16
+Johar Town,4.8,2,2,35,0,1,0,1,0,0,House,389.71
+Bahria Town,5.1,3,2,8,0,0,0,0,0,1,Upper Portion,530.41
+Garden Town,19.8,5,4,0,1,1,0,1,0,0,House,2616.7
+Faisal Town,7.4,4,4,5,1,0,0,0,0,0,Upper Portion,632.11
+Shahdara,5.4,4,3,1,0,0,0,0,0,0,House,330.93
+Wapda Town,10.0,5,4,1,0,0,1,0,0,0,House,1091.6
+Johar Town,13.8,5,4,3,0,0,0,0,0,0,House,1420.05
+Johar Town,14.2,4,4,0,1,0,0,1,0,0,Upper Portion,1502.92
+Wapda Town,6.5,3,3,18,0,0,1,0,0,0,House,651.74
+Gulberg I-II,5.0,2,2,0,1,0,0,1,0,0,House,746.82
+DHA Phase 4-6,39.8,6,6,2,1,1,0,0,1,1,House,6491.26
+Model Town,7.4,3,2,1,0,0,0,0,0,0,Upper Portion,996.01
+Gulberg III-V,13.5,4,3,0,0,1,1,0,0,0,House,2119.78
+Gulberg III-V,14.1,4,3,3,1,1,0,0,0,0,House,1846.66
+Gulberg I-II,14.2,5,4,12,0,1,0,1,0,0,Upper Portion,2080.09
+DHA Phase 1-3,7.0,3,3,35,0,0,1,0,1,1,House,1282.63
+DHA Phase 1-3,6.6,4,3,25,0,0,1,1,0,1,Lower Portion,1524.15
+Shahdara,10.5,4,3,25,1,0,0,0,0,0,House,451.74
+Johar Town,20.0,6,6,2,1,1,0,1,0,0,House,2369.31
+Johar Town,20.1,7,6,3,1,1,0,1,0,0,House,2490.59
+Iqbal Town,4.7,3,3,0,1,0,0,0,1,0,House,468.79
+Gulberg I-II,7.0,4,3,25,1,0,0,0,0,0,Upper Portion,1078.88
+Township,19.9,5,4,0,1,1,0,1,0,0,Upper Portion,1253.77
+Allama Iqbal Town,13.6,5,4,12,1,1,0,0,0,0,House,1061.88
+DHA Phase 4-6,19.6,4,3,3,1,1,0,1,1,1,House,2978.18
+Johar Town,7.3,3,3,3,0,0,0,1,1,0,Lower Portion,678.65
+Faisal Town,9.7,4,3,35,0,0,0,0,0,0,Upper Portion,763.62
+Township,13.7,5,5,18,1,1,1,0,0,0,House,933.7
+Bahria Town,14.0,4,4,25,1,1,0,1,1,1,House,1589.97
+Valencia,10.3,5,5,12,1,1,0,1,1,1,House,1329.32
+DHA Phase 7-9,4.6,3,2,25,1,1,0,0,0,1,Upper Portion,663.86
+Shahdara,10.1,4,4,12,1,1,0,0,0,0,Upper Portion,477.4
+Gulberg I-II,6.6,4,4,35,1,0,0,0,1,0,House,1104.01
+Township,9.5,3,3,3,0,0,0,0,0,0,Lower Portion,465.04
+Garden Town,19.6,5,4,12,1,0,0,0,0,0,House,2242.58
+Valencia,10.3,4,3,18,1,0,0,0,0,1,Upper Portion,1642.54
+Bahria Town,19.6,4,4,5,1,1,1,0,0,1,House,2233.43
+Gulberg I-II,6.5,4,4,25,0,0,0,0,0,0,Flat,1280.92
+DHA Phase 7-9,13.9,4,3,35,1,1,0,0,0,1,House,2237.58
+Gulberg I-II,40.3,5,5,8,1,1,0,0,0,0,House,6744.21
+DHA Phase 7-9,4.8,2,2,5,0,0,0,0,0,1,House,697.13
+Allama Iqbal Town,4.9,2,2,8,1,0,0,0,0,0,Flat,365.34
+Model Town,9.5,3,2,25,1,1,0,0,1,0,Lower Portion,986.95
+DHA Phase 4-6,4.9,2,2,12,1,0,1,0,0,1,House,713.85
+Shahdara,14.1,5,5,0,1,1,0,0,0,0,House,734.81
+Faisal Town,20.1,5,4,12,1,1,1,1,0,0,House,1591.99
+Township,9.8,4,4,0,1,0,0,0,0,0,House,748.76
+Shahdara,6.8,3,2,25,1,0,1,0,0,0,Lower Portion,283.33
+DHA Phase 7-9,9.6,3,2,5,0,1,0,0,1,1,House,1638.11
+Johar Town,13.9,5,4,8,1,0,1,0,1,0,House,1364.29
+Wapda Town,4.6,2,2,25,1,0,0,0,0,0,House,518.9
+Iqbal Town,10.3,4,4,0,1,1,0,1,0,0,House,1028.45
+DHA Phase 7-9,14.5,5,5,2,1,1,1,0,0,1,House,2154.0
+Allama Iqbal Town,14.5,5,5,5,1,0,0,0,0,0,Upper Portion,1010.96
+Gulberg I-II,7.4,4,4,3,1,0,0,0,0,0,House,1397.69
+Gulberg I-II,14.1,4,4,5,1,1,0,0,0,0,House,2950.71
+Lake City,5.2,3,3,35,0,0,0,0,0,1,House,547.7
+Valencia,6.8,3,3,25,1,0,0,0,1,1,Upper Portion,788.88
+Valencia,20.1,6,5,25,1,1,0,0,1,1,House,2385.02
+DHA Phase 4-6,14.0,5,5,35,1,1,0,0,1,1,House,2803.64
+Faisal Town,5.0,2,2,5,0,0,0,0,0,0,House,448.88
+Gulberg III-V,7.3,4,3,3,0,1,0,0,1,0,House,1293.87
+DHA Phase 4-6,6.8,4,4,3,0,0,0,0,0,1,House,1223.95
+Samanabad,6.8,4,3,25,0,0,0,0,0,0,House,410.28
+Township,7.4,3,3,18,0,0,1,0,0,0,House,464.71
+Faisal Town,4.6,3,3,3,0,0,0,0,0,0,Lower Portion,383.53
+Allama Iqbal Town,10.0,4,3,5,0,0,0,0,0,0,House,731.13
+Garden Town,14.4,4,3,8,1,1,0,1,1,0,House,2185.26
+Lake City,14.1,5,5,12,1,1,1,0,1,1,House,1671.78
+DHA Phase 4-6,14.0,5,4,25,1,1,1,0,1,1,House,1701.33
+Johar Town,4.7,2,2,5,0,1,0,1,1,0,House,584.64
+Johar Town,19.8,4,4,35,1,1,0,0,0,0,House,1660.09
+Gulberg III-V,20.4,5,5,8,1,1,0,0,0,0,House,3296.44
+Wapda Town,20.1,6,6,18,1,1,0,0,0,0,House,2107.09
+Bahria Town,20.0,5,5,35,1,1,1,0,0,1,House,2390.14
+DHA Phase 4-6,19.6,4,4,35,1,0,0,1,0,1,House,3466.76
+Gulberg I-II,9.5,3,2,0,0,0,0,0,1,0,House,1872.34
+Iqbal Town,7.5,4,3,2,1,1,0,1,1,0,Flat,674.06
+DHA Phase 4-6,13.9,4,3,8,1,1,0,0,0,1,House,2568.28
+Faisal Town,14.1,4,4,8,0,1,1,0,0,0,House,1333.35
+Bahria Town,13.6,5,4,12,0,1,1,0,0,1,House,1941.03
+Bahria Town,10.2,5,5,35,1,0,0,0,0,1,House,1025.79
+Valencia,5.4,4,3,1,0,0,0,0,1,1,Upper Portion,727.09
+Allama Iqbal Town,10.1,5,5,8,1,0,0,0,0,0,House,697.44
+Model Town,19.6,5,5,2,1,1,1,0,1,0,House,2348.69
+Iqbal Town,10.1,4,4,25,1,1,1,0,0,0,House,950.67
+Lake City,10.3,5,5,35,1,1,0,0,0,1,House,1145.75
+Gulberg III-V,6.9,4,4,8,1,0,0,1,0,0,Lower Portion,1157.44
+Faisal Town,10.4,5,4,1,1,1,0,0,1,0,House,867.53
+Allama Iqbal Town,20.1,7,7,25,1,0,1,0,0,0,Upper Portion,1475.02
+Garden Town,14.4,4,3,18,1,1,0,1,1,0,House,1907.52
+Faisal Town,20.1,6,6,5,1,1,0,1,0,0,House,1515.34
+Faisal Town,9.6,4,4,25,0,0,0,1,0,0,House,722.13
+Iqbal Town,13.8,4,4,35,1,1,0,0,0,0,House,1350.99
+Allama Iqbal Town,6.7,3,2,12,0,1,0,0,0,0,House,471.9
+Iqbal Town,14.4,4,4,12,1,1,0,1,1,0,House,1499.93
+Iqbal Town,10.3,4,3,3,1,1,1,0,1,0,House,1036.94
+Valencia,10.2,5,5,12,1,1,0,0,1,1,House,1062.36
+Wapda Town,13.8,4,3,8,1,1,0,0,1,0,House,1412.4
+DHA Phase 7-9,19.7,5,4,5,1,1,0,0,0,1,House,2833.6
+Faisal Town,5.3,4,3,0,1,0,0,1,1,0,House,534.84
+Faisal Town,20.0,5,5,3,1,1,0,0,0,0,House,1615.5
+DHA Phase 1-3,6.7,3,3,2,0,0,0,0,0,1,Upper Portion,1117.94
+Allama Iqbal Town,10.1,4,3,12,1,1,0,0,0,0,House,902.91
+DHA Phase 4-6,4.5,3,3,12,0,0,1,0,0,1,Upper Portion,769.31
+Model Town,6.8,4,4,12,0,0,0,0,0,0,Flat,805.85
+Wapda Town,10.0,3,3,5,0,0,0,1,0,0,House,1016.54
+DHA Phase 7-9,4.6,3,2,8,0,0,1,0,0,1,Upper Portion,588.63
+Allama Iqbal Town,10.5,4,3,25,1,1,0,1,0,0,House,717.0
+Allama Iqbal Town,19.7,4,4,8,0,1,1,0,0,0,House,1412.55
+Bahria Town,4.6,3,2,35,0,0,0,0,0,1,Flat,462.98
+DHA Phase 1-3,13.7,4,4,8,1,1,1,0,0,1,Upper Portion,2296.72
+Gulberg III-V,10.3,4,4,12,1,0,0,0,0,0,House,1664.32
+Valencia,13.9,5,4,0,1,0,0,0,1,1,House,1722.43
+Shahdara,7.1,4,3,18,0,1,0,0,1,0,Flat,395.09
+Garden Town,6.5,3,3,25,1,1,1,0,1,0,Upper Portion,748.34
+Gulberg III-V,6.5,3,3,35,1,1,1,0,0,0,House,765.68
+Garden Town,4.9,2,2,35,0,0,0,0,0,0,Upper Portion,564.21
+Lake City,7.3,3,2,3,0,1,0,0,0,1,House,1015.38
+Allama Iqbal Town,14.4,5,4,12,1,0,0,0,0,0,Upper Portion,1122.8
+DHA Phase 4-6,19.6,5,5,8,1,1,1,0,1,1,House,4604.94
+Wapda Town,20.0,5,5,12,1,1,0,0,0,0,House,1971.02
+Lake City,14.4,4,3,2,1,1,1,0,0,1,House,1663.71
+Shahdara,4.9,2,2,25,0,0,0,0,0,0,House,156.35
+Model Town,7.3,3,2,35,1,0,0,0,0,0,Lower Portion,945.53
+Garden Town,6.6,3,2,8,1,0,0,0,0,0,House,873.59
+Township,7.4,4,4,3,1,0,0,1,1,0,House,485.36
+DHA Phase 4-6,10.3,5,5,1,1,1,0,0,0,1,House,1755.07
+Township,10.4,5,4,18,1,1,0,0,0,0,House,629.7
+Iqbal Town,10.2,4,4,5,1,1,0,1,0,0,House,933.82
+DHA Phase 4-6,9.9,3,2,35,0,0,0,0,1,1,House,2034.12
+Gulberg III-V,20.4,7,6,18,1,0,0,0,0,0,House,2863.3
+Iqbal Town,19.8,5,4,12,0,1,0,0,0,0,House,1758.04
+DHA Phase 4-6,6.8,4,4,12,1,1,1,0,0,1,House,1160.13
+Valencia,20.2,5,5,0,1,1,1,0,0,1,House,2738.85
+Model Town,20.3,5,5,35,1,1,1,0,0,0,Upper Portion,2718.46
+Valencia,7.4,4,3,12,1,0,1,1,0,1,Flat,935.72
+DHA Phase 1-3,9.7,4,3,35,0,0,1,0,1,1,Upper Portion,1378.43
+Faisal Town,10.3,4,3,12,1,0,0,0,0,0,House,871.98
+Shahdara,20.2,7,6,18,1,1,1,0,0,0,House,986.78
+Shahdara,19.6,4,4,0,1,1,0,0,0,0,House,960.1
+Wapda Town,4.9,3,3,12,0,0,0,1,0,0,Flat,403.94
+DHA Phase 4-6,9.8,4,4,18,0,0,1,0,1,1,Lower Portion,1906.48
+Wapda Town,9.8,4,3,25,0,1,1,0,1,0,Flat,1018.67
+DHA Phase 1-3,10.5,4,3,25,1,1,1,1,0,1,House,2363.75
+DHA Phase 1-3,7.1,4,4,3,0,0,1,0,0,1,Flat,1567.08
+Model Town,20.2,7,6,35,1,1,0,0,0,0,House,2877.77
+Bahria Town,14.5,5,5,35,1,0,0,0,0,1,House,1430.01
+Wapda Town,19.9,5,4,0,1,1,1,0,0,0,Upper Portion,2300.54
+Iqbal Town,20.3,6,5,35,1,0,0,1,0,0,House,1578.31
+Bahria Town,13.9,4,3,3,1,1,1,0,0,1,House,1603.89
+Gulberg III-V,10.4,4,3,18,1,1,0,1,1,0,House,1697.59
+Shahdara,13.7,4,3,5,1,1,0,0,0,0,Upper Portion,716.61
+Johar Town,7.4,4,4,35,1,0,0,0,0,0,Lower Portion,738.08
+Bahria Town,13.7,5,5,1,1,1,0,0,0,1,House,1555.92
+DHA Phase 7-9,6.8,3,3,8,1,0,1,0,0,1,Upper Portion,880.26
+Allama Iqbal Town,14.3,4,3,8,1,1,0,0,1,0,House,1423.24
+Iqbal Town,6.9,3,3,5,0,0,0,0,0,0,Upper Portion,581.27
+Gulberg I-II,5.1,3,3,12,1,0,0,0,0,0,House,881.83
+DHA Phase 4-6,6.9,4,3,1,0,0,1,0,0,1,House,1119.19
+Iqbal Town,5.2,4,3,18,1,0,0,1,0,0,House,517.75
+Garden Town,13.7,4,4,35,1,0,0,0,0,0,House,1750.58
+Gulberg III-V,13.6,4,4,25,1,0,0,0,0,0,House,1964.53
+Township,9.8,3,3,25,1,0,1,0,0,0,Lower Portion,552.13
+DHA Phase 7-9,7.0,4,4,5,0,0,0,0,0,1,Upper Portion,1152.45
+Johar Town,4.7,2,2,5,0,0,1,0,0,0,Lower Portion,411.95
+Township,4.9,2,2,8,0,0,0,0,0,0,House,283.69
+Johar Town,6.9,4,4,0,1,0,0,0,0,0,Upper Portion,654.57
+Garden Town,19.6,4,4,35,1,1,0,1,1,0,House,2564.43
+Johar Town,7.1,3,3,1,0,0,0,0,0,0,Lower Portion,631.86
+Gulberg III-V,10.4,5,5,35,1,1,0,0,0,0,House,1426.47
+Shahdara,4.7,3,3,1,0,0,0,0,0,0,Flat,189.02
+Johar Town,7.1,4,4,25,1,0,1,1,1,0,House,787.67
+Samanabad,10.2,5,4,2,1,0,0,1,0,0,House,727.31
+Gulberg I-II,13.9,5,4,0,1,1,0,0,0,0,House,2981.53
+Gulberg I-II,7.2,4,3,18,0,0,1,1,0,0,Lower Portion,1301.4
+DHA Phase 1-3,4.9,3,3,3,1,0,0,1,0,1,Upper Portion,916.0
+Garden Town,10.0,4,4,18,1,1,1,0,0,0,House,1092.55
+Johar Town,6.5,3,2,12,0,1,0,0,0,0,House,563.67
+Faisal Town,7.2,3,3,1,1,1,0,0,1,0,Lower Portion,494.43
+Bahria Town,20.2,6,6,35,1,0,0,0,0,1,House,2816.29
+Shahdara,13.5,4,4,8,1,0,0,0,1,0,House,706.59
+DHA Phase 7-9,9.9,4,3,18,1,0,1,0,0,1,House,1272.18
+Faisal Town,10.5,4,3,8,1,1,0,0,0,0,Upper Portion,749.76
+Allama Iqbal Town,9.9,4,3,12,1,0,1,0,0,0,House,693.89
+Wapda Town,10.0,4,4,5,1,0,0,0,1,0,House,909.9
+Faisal Town,14.4,4,3,2,1,0,0,0,0,0,House,1369.83
+Wapda Town,14.2,4,3,12,1,1,0,0,1,0,Upper Portion,1324.99
+Garden Town,7.1,4,3,8,0,0,1,0,0,0,Flat,751.64
+DHA Phase 4-6,10.3,4,4,5,1,1,0,0,0,1,House,2264.44
+DHA Phase 1-3,10.4,4,3,18,1,1,0,0,0,1,House,1692.97
+Samanabad,20.0,4,3,18,1,0,0,0,1,0,House,1128.37
+Valencia,14.0,5,5,0,1,1,1,0,0,1,House,2054.16
+Allama Iqbal Town,9.9,3,2,5,1,0,0,0,1,0,Upper Portion,766.74
+Bahria Town,5.5,4,4,8,1,0,1,0,0,1,House,669.09
+DHA Phase 4-6,14.2,5,5,1,1,0,0,0,0,1,House,2058.61
+DHA Phase 4-6,4.6,3,2,3,0,0,0,0,0,1,Upper Portion,684.46
+Iqbal Town,7.4,4,3,0,0,0,1,0,1,0,Flat,607.07
+Johar Town,5.0,3,2,35,1,0,1,0,0,0,Upper Portion,472.5
+Gulberg I-II,13.6,4,4,18,1,1,0,0,0,0,House,2396.84
+Bahria Town,7.0,3,2,1,1,0,0,1,1,1,Upper Portion,848.09
+DHA Phase 4-6,9.9,4,3,0,0,0,1,0,0,1,Upper Portion,1670.64
+Valencia,20.4,5,4,18,1,1,0,1,0,1,House,2182.33
+Gulberg III-V,6.7,3,3,8,0,0,0,0,0,0,House,1020.34
+Allama Iqbal Town,10.3,4,4,25,1,0,0,0,0,0,House,885.83
+Gulberg III-V,10.1,5,5,35,1,1,1,0,0,0,Upper Portion,1437.12
+Bahria Town,4.6,2,2,12,0,0,1,0,0,1,Upper Portion,519.66
+DHA Phase 1-3,20.5,6,5,2,1,1,0,0,0,1,House,3889.23
+DHA Phase 4-6,5.0,3,3,25,0,1,0,0,0,1,House,970.92
+Johar Town,9.8,3,2,35,0,0,0,0,0,0,House,835.6
+Bahria Town,10.0,3,2,12,0,0,0,0,0,1,House,1347.42
+Valencia,14.4,5,5,18,1,1,0,1,1,1,House,1901.35
+Gulberg III-V,13.8,4,4,5,1,1,1,1,0,0,Upper Portion,2065.69
+Iqbal Town,6.7,3,3,5,1,0,0,0,1,0,House,714.88
+Faisal Town,4.6,3,2,18,0,0,0,1,1,0,House,347.61
+Allama Iqbal Town,13.8,4,3,35,1,1,0,0,0,0,House,1069.07
+DHA Phase 1-3,10.3,4,3,12,1,0,0,1,1,1,House,2084.31
+Bahria Town,20.0,4,4,25,1,0,0,0,0,1,House,2011.95
+DHA Phase 4-6,19.7,4,4,2,1,1,0,0,0,1,House,3492.67
+Gulberg I-II,19.7,4,3,2,1,1,1,0,0,0,House,3528.6
+Shahdara,9.8,4,4,12,1,0,0,1,0,0,Lower Portion,461.28
+DHA Phase 7-9,7.4,3,3,2,1,0,0,0,0,1,House,1156.72
+Bahria Town,19.8,5,4,12,1,1,0,0,1,1,House,2143.74
+Valencia,10.5,4,4,3,0,1,0,1,0,1,House,1383.07
+Iqbal Town,7.0,4,3,25,1,0,0,0,0,0,Upper Portion,575.51
+Lake City,19.7,5,5,25,1,1,0,0,0,1,House,1972.08
+DHA Phase 1-3,20.4,5,4,8,1,1,0,1,0,1,House,4070.87
+Model Town,10.0,4,4,2,0,0,0,0,0,0,Lower Portion,1261.59
+Bahria Town,5.2,4,3,12,0,0,0,0,0,1,House,522.48
+DHA Phase 4-6,10.5,5,5,35,1,0,0,0,0,1,House,1380.48
+Model Town,19.6,4,4,12,0,1,0,0,0,0,House,2830.34
+DHA Phase 1-3,19.6,4,4,0,1,1,0,0,1,1,Upper Portion,3120.16
+DHA Phase 4-6,7.2,3,3,0,1,0,0,0,0,1,Lower Portion,1247.8
+Johar Town,4.8,3,3,5,0,0,1,0,0,0,House,521.14
+DHA Phase 7-9,19.7,4,3,2,1,0,0,1,0,1,House,2554.75
+Lake City,9.5,4,3,25,1,0,0,0,0,1,House,1292.33
+Iqbal Town,9.5,4,3,25,0,0,1,0,0,0,Flat,831.65
+Allama Iqbal Town,40.3,5,5,3,1,1,1,0,0,0,House,3255.81
+Gulberg I-II,4.6,3,2,5,0,1,1,0,0,0,Flat,847.74
+DHA Phase 7-9,14.0,4,4,3,1,0,0,0,0,1,House,1855.28
+DHA Phase 4-6,5.1,4,4,35,0,0,0,0,1,1,Lower Portion,819.33
+Garden Town,9.9,4,3,8,1,0,1,0,0,0,Upper Portion,1487.76
+Iqbal Town,19.5,4,3,18,1,1,0,0,0,0,House,1916.37
+DHA Phase 1-3,10.3,4,4,8,1,0,1,0,0,1,House,2439.59
+Township,39.5,5,5,12,1,1,0,0,0,0,Upper Portion,2284.13
+DHA Phase 1-3,10.3,4,3,5,1,1,0,0,1,1,House,1766.42
+Lake City,7.4,4,3,5,0,1,0,1,0,1,House,827.23
+Iqbal Town,6.9,4,4,12,0,0,0,0,1,0,Lower Portion,498.9
+Faisal Town,10.0,4,4,12,1,0,0,0,1,0,Upper Portion,888.68
+Iqbal Town,10.0,3,2,3,0,0,0,1,0,0,House,834.45
+Allama Iqbal Town,4.9,2,2,1,0,0,1,0,0,0,Flat,236.93
+Model Town,10.4,5,5,5,1,1,0,0,0,0,House,1856.5
+Allama Iqbal Town,10.4,4,3,8,1,0,0,0,0,0,House,738.86
+DHA Phase 4-6,13.8,4,3,12,1,1,0,0,1,1,House,2182.11
+Samanabad,14.1,4,4,35,0,1,0,0,0,0,House,1002.77
+Lake City,14.4,4,4,0,1,1,1,0,0,1,House,1391.44
+Allama Iqbal Town,5.5,3,2,3,1,0,0,0,0,0,Upper Portion,460.28
+Bahria Town,7.0,4,4,2,0,0,0,0,0,1,House,793.32
+Garden Town,14.0,5,4,8,1,1,1,0,0,0,House,1527.66
+Bahria Town,9.8,4,4,8,1,0,0,0,0,1,House,1404.12
+Wapda Town,5.5,3,2,18,0,0,0,1,0,0,House,587.33
+DHA Phase 4-6,19.6,4,4,3,1,1,0,1,0,1,House,3685.93
+DHA Phase 4-6,14.1,5,5,12,1,0,1,0,0,1,House,2505.86
+Gulberg III-V,9.8,3,3,25,1,0,0,0,1,0,Lower Portion,1476.43
+DHA Phase 7-9,4.8,3,2,35,0,0,0,0,0,1,Flat,522.17
+Faisal Town,13.9,4,3,35,1,1,1,1,0,0,House,1164.48
+Gulberg I-II,10.5,4,3,25,1,0,0,0,0,0,House,1598.32
+Shahdara,19.6,5,5,35,1,1,0,0,0,0,Upper Portion,747.7
+Model Town,14.1,4,4,3,1,1,0,0,0,0,House,1996.54
+DHA Phase 7-9,19.6,4,3,2,1,1,0,0,0,1,Upper Portion,2978.12
+Allama Iqbal Town,9.7,3,2,0,1,0,0,1,0,0,Flat,710.06
+Garden Town,4.9,2,2,18,1,0,1,0,1,0,House,639.35
+Bahria Town,14.0,4,4,35,1,1,0,0,1,1,House,1394.13
+Lake City,13.8,5,5,2,1,1,0,0,0,1,Upper Portion,1519.23
+Wapda Town,13.8,4,4,12,1,1,1,1,0,0,Upper Portion,1452.72
+Gulberg I-II,6.6,3,2,18,1,0,0,0,0,0,House,1243.02
+Shahdara,6.8,4,3,35,0,0,0,0,1,0,Upper Portion,304.76
+Shahdara,20.5,5,5,12,1,0,0,0,0,0,House,919.52
+Garden Town,14.4,4,4,35,0,1,0,0,0,0,House,1653.51
+Gulberg I-II,19.8,4,4,5,1,0,0,0,0,0,House,3737.23
+Iqbal Town,14.1,4,3,5,1,1,1,0,1,0,House,1410.74
+DHA Phase 4-6,10.4,5,4,12,1,1,0,0,0,1,House,1751.64
+DHA Phase 1-3,13.5,4,4,5,1,0,0,0,0,1,House,2417.34
+Gulberg III-V,20.3,7,7,0,1,0,0,0,0,0,House,3432.1
+Bahria Town,10.4,4,4,18,1,1,0,0,0,1,House,1181.22
+Faisal Town,13.6,4,4,18,1,1,0,0,0,0,House,1209.49
+Wapda Town,6.7,4,4,18,0,1,0,0,1,0,Flat,622.79
+Wapda Town,10.5,4,4,5,1,0,1,0,0,0,House,901.77
+Johar Town,14.0,5,4,12,0,1,1,0,1,0,House,1733.72
+Model Town,6.5,4,3,5,0,0,1,0,1,0,House,931.58
+Johar Town,6.8,4,3,0,0,1,0,1,0,0,Upper Portion,650.24
+Shahdara,6.9,4,4,12,0,0,1,0,0,0,Upper Portion,283.44
+DHA Phase 1-3,7.2,4,4,1,1,0,0,0,1,1,Lower Portion,1155.06
+Faisal Town,7.2,3,3,1,1,0,1,1,0,0,House,632.08
+Valencia,10.5,4,3,18,0,1,0,1,0,1,House,1616.28
+Johar Town,19.8,4,4,0,1,1,0,0,0,0,House,1865.52
+Wapda Town,10.0,4,3,35,0,1,0,1,0,0,House,1106.77
+Bahria Town,7.0,3,3,8,1,0,0,1,0,1,Upper Portion,830.94
+Faisal Town,4.9,3,3,35,0,0,1,0,1,0,Flat,327.12
+Samanabad,13.7,4,4,0,1,1,0,0,1,0,House,838.18
+Johar Town,10.5,5,4,12,1,0,1,0,1,0,House,939.84
+Gulberg III-V,20.4,7,6,5,1,1,0,0,0,0,House,2704.44
+Valencia,14.0,4,3,25,1,1,0,0,0,1,Upper Portion,1494.56
+Samanabad,20.1,5,5,5,1,0,0,0,0,0,House,963.3
+Gulberg I-II,6.7,4,3,3,0,0,0,0,0,0,House,1393.51
+Garden Town,14.0,5,5,25,1,1,0,0,0,0,Upper Portion,1801.4
+Garden Town,7.2,3,3,5,1,0,0,0,0,0,House,858.07
+Wapda Town,20.0,5,4,0,1,1,0,0,0,0,House,1957.11
+DHA Phase 4-6,14.5,5,4,5,1,0,0,1,0,1,House,2228.82
+Iqbal Town,7.1,4,4,18,0,0,0,1,0,0,House,442.27
+Samanabad,6.9,4,4,3,1,0,1,0,1,0,Lower Portion,604.85
+DHA Phase 7-9,7.3,4,4,8,1,1,0,1,0,1,Lower Portion,1038.48
+Gulberg I-II,13.7,5,5,0,1,1,0,0,0,0,House,2230.65
+Shahdara,6.9,4,3,12,0,1,1,0,1,0,Lower Portion,256.68
+DHA Phase 7-9,9.8,3,2,18,0,0,0,0,0,1,Upper Portion,1056.33
+Faisal Town,6.9,3,2,8,0,0,0,1,0,0,Flat,680.39
+Bahria Town,14.3,4,4,8,0,1,0,0,1,1,House,1971.15
+Gulberg III-V,20.0,5,5,1,1,1,0,0,1,0,House,3225.62
+Faisal Town,14.3,4,4,2,0,1,0,0,0,0,House,1016.85
+Bahria Town,14.1,5,4,2,1,1,1,0,0,1,Upper Portion,1957.78
+Bahria Town,6.8,3,3,8,0,0,1,0,0,1,Lower Portion,825.31
+Model Town,5.3,4,4,12,0,0,0,1,0,0,Upper Portion,775.83
+Valencia,13.7,4,3,35,1,0,0,0,1,1,Upper Portion,1716.09
+DHA Phase 7-9,9.7,3,2,0,1,0,0,0,1,1,House,1110.1
+Johar Town,10.0,5,5,12,1,1,0,0,0,0,House,896.84
+Shahdara,4.8,3,2,12,0,0,1,0,0,0,Flat,218.38
+Gulberg III-V,6.5,3,3,8,0,0,0,0,0,0,Flat,1010.23
+Garden Town,5.1,4,3,25,1,0,1,0,1,0,House,577.63
+Model Town,20.0,5,5,2,1,1,1,0,0,0,House,2651.45
+Wapda Town,6.9,4,3,0,0,0,0,0,0,0,House,664.65
+DHA Phase 4-6,10.5,5,4,18,1,1,1,0,1,1,House,1994.1
+Shahdara,5.1,3,2,5,0,0,0,0,0,0,House,278.07
+Bahria Town,14.4,4,3,0,1,1,1,0,1,1,House,1512.51
+Gulberg I-II,6.6,4,4,3,1,0,1,0,0,0,Lower Portion,1355.0
+DHA Phase 4-6,20.1,5,5,5,0,1,0,0,0,1,House,2889.9
+DHA Phase 7-9,20.4,5,4,12,1,1,0,0,0,1,Upper Portion,3070.67
+Bahria Town,7.1,4,4,2,0,0,1,1,0,1,Lower Portion,800.13
+Model Town,20.2,5,4,8,1,1,0,0,0,0,House,2754.48
+Allama Iqbal Town,39.9,5,4,8,1,1,0,1,1,0,House,3041.14
+Johar Town,19.6,5,5,8,1,1,0,1,0,0,House,2061.03
+Gulberg III-V,20.0,5,5,35,1,1,1,0,0,0,Upper Portion,3114.71
+Valencia,6.9,3,3,0,0,0,0,1,0,1,Upper Portion,911.55
+Iqbal Town,10.4,4,4,35,1,1,0,0,0,0,House,985.2
+DHA Phase 7-9,4.7,2,2,12,0,0,1,0,0,1,Flat,691.22
+DHA Phase 7-9,5.5,3,3,25,0,0,1,1,0,1,Lower Portion,625.32
+DHA Phase 1-3,40.5,5,5,8,0,0,0,0,0,1,House,7687.46
+Wapda Town,6.7,3,2,8,0,0,1,0,0,0,House,611.64
+Iqbal Town,13.8,5,5,25,1,1,0,0,0,0,House,1059.91
+Bahria Town,20.4,5,4,25,1,1,1,0,0,1,House,2269.43
+Faisal Town,20.5,6,6,3,0,0,0,0,0,0,Upper Portion,1675.96
+Allama Iqbal Town,39.9,7,7,2,1,1,0,0,0,0,House,3057.91
+Valencia,6.8,3,2,8,1,0,1,0,0,1,Upper Portion,963.41
+Faisal Town,5.0,4,3,35,0,0,0,0,0,0,Upper Portion,412.47
+Gulberg I-II,10.2,4,3,5,1,1,0,0,0,0,Upper Portion,1827.1
+DHA Phase 4-6,4.8,3,2,18,0,0,1,0,1,1,House,897.1
+Gulberg III-V,5.2,4,4,18,0,0,0,0,0,0,Lower Portion,732.09
+DHA Phase 4-6,9.6,3,3,25,0,0,0,0,1,1,Flat,1720.71
+Lake City,19.5,4,3,12,0,1,0,0,0,1,House,2224.97
+Township,9.9,3,2,8,0,0,1,0,1,0,House,596.29
+DHA Phase 1-3,6.9,4,4,35,1,0,0,0,1,1,Upper Portion,1602.78
+DHA Phase 4-6,13.8,4,4,12,1,0,0,0,0,1,House,2171.72
+Bahria Town,7.0,4,3,18,0,0,0,0,0,1,Lower Portion,907.34
+Township,4.8,3,3,5,0,0,0,0,0,0,Lower Portion,207.57
+Model Town,13.7,5,5,18,1,1,1,0,0,0,Upper Portion,2011.96
+Bahria Town,13.8,4,3,3,1,0,0,0,0,1,House,1891.59
+DHA Phase 1-3,14.5,5,4,3,1,1,0,0,0,1,House,2116.71
+DHA Phase 7-9,4.9,3,2,18,0,0,1,0,0,1,Upper Portion,676.54
+Shahdara,19.9,5,4,12,1,0,1,0,0,0,House,1069.0
+Shahdara,14.1,4,4,18,1,1,1,0,0,0,House,731.96
+DHA Phase 1-3,10.5,4,3,3,1,1,0,1,0,1,House,2122.61
+Township,13.7,5,5,12,1,1,0,0,0,0,House,844.81
+Garden Town,20.2,5,5,8,1,1,0,0,1,0,House,2243.3
+Faisal Town,10.2,4,4,12,1,1,0,0,0,0,House,1099.05
+Bahria Town,10.1,4,4,3,0,0,0,0,0,1,House,1122.19
+Bahria Town,39.6,7,6,18,1,1,0,0,1,1,House,4735.01
+Bahria Town,14.2,5,5,25,1,1,1,1,0,1,House,1562.55
+Iqbal Town,9.6,3,2,3,0,0,1,0,1,0,House,632.16
+DHA Phase 7-9,14.1,5,5,5,1,1,1,0,0,1,House,1747.0
+DHA Phase 1-3,10.2,4,3,18,1,1,0,1,0,1,Upper Portion,1597.71
+Gulberg III-V,6.7,4,4,18,1,0,0,0,0,0,House,1130.61
+Iqbal Town,10.3,5,5,18,1,0,0,0,0,0,House,859.37
+Gulberg I-II,19.5,5,4,18,1,1,0,1,0,0,House,3174.89
+Iqbal Town,20.3,5,4,5,1,1,0,0,0,0,House,1567.1
+Shahdara,7.0,3,2,5,0,1,0,0,0,0,Upper Portion,326.84
+DHA Phase 4-6,9.7,3,2,3,1,0,0,1,1,1,Lower Portion,1499.56
+Iqbal Town,6.6,3,3,2,0,0,1,1,0,0,House,717.95
+Bahria Town,40.5,6,6,18,1,1,0,1,0,1,House,4767.86
+Faisal Town,39.6,5,5,1,1,1,0,1,0,0,Upper Portion,2952.63
+DHA Phase 7-9,13.7,5,5,35,1,1,1,0,0,1,House,2059.01
+Iqbal Town,19.8,5,5,25,1,1,1,0,0,0,Upper Portion,1721.28
+Allama Iqbal Town,14.1,4,3,25,1,1,0,1,1,0,Upper Portion,1053.81
+Township,10.0,4,3,35,1,1,0,1,1,0,House,504.15
+Iqbal Town,4.6,2,2,8,0,0,0,0,0,0,Upper Portion,371.67
+Bahria Town,9.8,3,2,25,1,0,1,0,0,1,Upper Portion,1156.22
+Valencia,13.7,5,5,2,1,0,0,0,1,1,House,2002.71
+Faisal Town,13.7,4,4,0,1,1,0,1,0,0,House,1065.94
+Lake City,9.9,3,2,25,1,0,0,0,1,1,Flat,1355.2
+DHA Phase 1-3,20.2,5,5,0,0,1,0,0,0,1,House,4034.87
+Township,6.7,3,2,35,1,0,0,1,0,0,House,321.05
+Iqbal Town,9.9,3,3,18,1,1,1,0,1,0,House,811.18
+Iqbal Town,13.9,4,3,18,1,1,0,0,0,0,House,1426.61
+Gulberg I-II,14.5,5,5,3,1,1,0,1,1,0,House,2952.29
+Garden Town,14.5,5,5,18,1,1,0,0,0,0,House,1852.16
+Johar Town,7.3,4,3,0,1,0,0,0,0,0,Upper Portion,757.14
+Garden Town,6.7,3,3,25,0,1,0,0,1,0,House,736.45
+DHA Phase 4-6,13.6,5,5,2,1,1,0,0,0,1,House,2689.98
+Garden Town,9.8,3,2,18,1,1,0,0,0,0,Upper Portion,1070.44
+Shahdara,6.8,4,3,3,1,0,0,0,0,0,Lower Portion,347.36
+DHA Phase 1-3,14.0,4,3,0,1,1,1,0,1,1,House,3118.39
+Shahdara,10.3,4,4,8,1,1,0,0,1,0,House,547.78
+Johar Town,14.4,5,4,2,1,0,0,1,0,0,Upper Portion,1637.27
+Faisal Town,20.3,5,4,18,1,1,0,0,0,0,Upper Portion,1972.95
+Allama Iqbal Town,6.9,3,2,3,1,1,0,0,0,0,Flat,541.85
+Lake City,5.2,3,3,5,0,0,0,0,0,1,Upper Portion,558.96
+Wapda Town,13.8,4,3,12,1,1,0,0,0,0,House,1300.45
+Faisal Town,13.6,5,5,3,1,1,0,0,0,0,House,1041.32
+Johar Town,14.2,4,4,5,1,1,0,1,0,0,House,1343.26
+Model Town,19.5,5,4,25,0,1,0,0,0,0,House,2705.15
+Iqbal Town,19.9,4,4,2,1,0,0,0,1,0,House,1723.73
+Allama Iqbal Town,39.8,5,5,1,1,1,1,0,0,0,House,3072.51
+Wapda Town,10.2,5,5,5,1,1,0,0,0,0,House,829.5
+Allama Iqbal Town,10.3,4,4,8,1,1,0,0,0,0,House,790.16
+Johar Town,9.8,3,3,12,0,0,1,0,0,0,Lower Portion,1063.95
+Allama Iqbal Town,7.3,3,2,5,1,0,0,0,0,0,Lower Portion,445.23
+DHA Phase 4-6,9.8,3,2,25,0,1,0,0,0,1,House,1631.24
+Lake City,6.9,4,3,0,0,0,0,0,1,1,Flat,615.29
+DHA Phase 1-3,20.2,5,5,8,1,1,1,0,1,1,House,3222.69
+Model Town,10.2,4,3,5,1,0,0,0,0,0,House,1513.29
+Model Town,10.5,4,4,12,1,1,0,0,0,0,House,1369.57
+Johar Town,9.7,3,3,35,1,0,0,0,0,0,Lower Portion,1096.42
+Iqbal Town,5.2,3,3,8,1,0,0,0,0,0,Lower Portion,450.44
+Johar Town,5.1,3,3,35,0,0,0,0,0,0,House,515.56
+Bahria Town,10.4,4,3,5,1,1,0,0,0,1,House,1084.49
+Gulberg I-II,4.7,2,2,0,0,0,0,0,0,0,House,775.36
+Johar Town,14.3,4,3,2,1,1,1,1,0,0,House,1371.36
+Gulberg I-II,20.1,5,4,5,1,1,0,1,1,0,House,3057.78
+DHA Phase 4-6,19.8,5,5,5,1,1,0,1,0,1,House,3617.84
+Valencia,14.0,4,3,1,1,0,0,1,0,1,House,1932.11
+Iqbal Town,6.8,3,2,8,0,0,0,0,0,0,House,628.15
+Valencia,20.1,7,6,5,0,1,0,0,0,1,House,2222.56
+Bahria Town,20.4,5,5,1,1,1,0,0,1,1,House,2478.08
+Johar Town,7.1,4,4,3,1,0,0,0,0,0,House,579.21
+Faisal Town,14.1,5,5,25,1,1,0,0,0,0,House,1338.11
+Bahria Town,7.0,4,3,5,0,0,0,0,0,1,Flat,696.54
+Bahria Town,19.6,5,4,18,1,1,1,0,0,1,House,1963.41
+DHA Phase 1-3,39.7,5,5,12,1,1,1,0,0,1,House,7455.11
+Model Town,5.0,2,2,8,0,0,0,0,0,0,Flat,658.71
+Johar Town,19.8,4,3,3,1,1,0,0,0,0,House,1981.55
+Johar Town,13.7,5,5,5,1,0,0,1,1,0,House,1251.18
+Valencia,40.0,6,6,12,1,1,0,1,0,1,House,5476.08
+Lake City,9.8,4,3,5,0,1,0,0,1,1,House,887.88
+Valencia,19.8,4,3,2,1,1,1,0,0,1,House,1998.05
+Wapda Town,5.0,3,3,1,0,0,0,0,0,0,Upper Portion,453.33
+Allama Iqbal Town,6.6,4,4,25,0,1,0,0,1,0,House,433.29
+Wapda Town,5.4,4,4,8,0,0,0,0,0,0,Upper Portion,577.86
+Township,40.4,6,6,12,0,0,0,0,0,0,Upper Portion,1940.74
+DHA Phase 1-3,20.2,6,5,8,0,1,0,0,0,1,House,4484.83
+DHA Phase 7-9,19.6,5,5,25,1,1,0,0,1,1,House,2971.65
+DHA Phase 1-3,20.3,6,6,12,1,1,0,0,0,1,House,4369.17
+Garden Town,5.3,3,2,8,0,0,0,0,0,0,Upper Portion,794.17
+Samanabad,10.3,4,3,35,1,0,0,0,0,0,House,616.11
+Gulberg I-II,4.6,3,2,18,1,0,1,0,0,0,House,721.87
+Township,7.1,3,2,1,1,0,0,0,0,0,House,436.73
+DHA Phase 4-6,7.3,3,2,2,1,0,0,0,1,1,House,1192.8
+Township,10.1,4,3,25,1,0,1,0,0,0,House,550.1
+Model Town,7.1,4,3,25,0,1,1,0,0,0,Lower Portion,935.16
+DHA Phase 4-6,5.0,3,3,12,0,0,0,0,1,1,Upper Portion,807.36
+Bahria Town,7.0,3,3,12,1,0,0,0,1,1,Upper Portion,750.23
+Gulberg III-V,4.5,3,2,12,0,1,1,0,0,0,House,673.97
+Gulberg III-V,40.1,7,7,8,1,0,0,0,0,0,House,6218.19
+Gulberg III-V,13.6,5,5,18,1,0,0,1,0,0,House,2252.0
+Allama Iqbal Town,39.9,6,5,1,1,0,0,1,1,0,House,2405.87
+Lake City,9.8,4,3,35,0,0,0,0,0,1,House,1004.99
+Gulberg III-V,7.0,3,2,18,1,0,1,0,1,0,Lower Portion,994.34
+Valencia,19.6,4,3,12,1,1,0,0,0,1,House,2043.22
+Iqbal Town,7.2,3,2,5,0,0,0,0,0,0,House,625.08
+Gulberg III-V,7.3,4,4,2,1,0,0,0,0,0,Upper Portion,1096.32
+Johar Town,6.7,3,3,8,0,0,0,1,0,0,Flat,724.12
+DHA Phase 4-6,4.6,3,2,18,0,0,0,0,1,1,House,804.58
+DHA Phase 7-9,6.6,4,3,12,1,1,0,0,0,1,House,847.71
+Iqbal Town,10.4,4,4,5,0,1,0,0,0,0,House,1156.24
+DHA Phase 7-9,14.0,4,4,12,1,1,0,1,1,1,House,2143.65
+Bahria Town,5.0,2,2,25,0,0,1,0,0,1,House,626.34
+Iqbal Town,6.6,3,2,0,0,0,0,0,0,0,Flat,641.27
+DHA Phase 4-6,20.1,7,6,8,0,1,1,0,0,1,House,3508.35
+Lake City,5.4,3,3,18,0,0,0,1,0,1,Flat,698.7
+Gulberg III-V,7.3,3,2,12,0,1,0,0,0,0,House,1081.26
+Shahdara,20.1,5,5,18,1,1,0,0,0,0,House,978.94
+Bahria Town,6.6,3,2,8,0,0,0,0,0,1,House,837.92
+Allama Iqbal Town,4.6,3,2,35,0,0,0,0,0,0,House,370.17
+Lake City,9.5,3,3,0,0,1,0,0,0,1,Flat,1243.03
+DHA Phase 1-3,6.8,3,3,8,0,0,0,0,0,1,House,1378.41
+Garden Town,9.6,4,3,1,1,0,0,1,1,0,Flat,1346.08
+Township,19.8,4,4,2,0,1,0,1,0,0,Upper Portion,1241.44
+Valencia,4.9,3,2,5,0,0,0,0,0,1,Flat,679.97
+Allama Iqbal Town,10.4,5,5,2,1,1,0,0,1,0,House,977.47
+Faisal Town,10.1,5,5,35,1,1,0,0,1,0,House,814.32
+Gulberg I-II,5.3,4,3,35,1,0,0,0,0,0,House,1055.22
+Gulberg I-II,14.2,4,3,5,0,0,0,1,0,0,House,2567.55
+Valencia,6.6,3,2,12,1,0,1,1,0,1,Lower Portion,894.47
+Johar Town,10.2,5,5,12,1,1,0,0,0,0,House,1247.44
+Faisal Town,4.8,3,3,25,0,1,0,0,1,0,House,431.45
+Samanabad,10.1,5,4,12,0,1,0,0,0,0,House,716.05
+Model Town,6.8,4,4,0,0,1,0,0,1,0,Upper Portion,889.71
+Gulberg I-II,20.5,5,4,18,1,1,0,0,0,0,House,4155.37
+Allama Iqbal Town,4.8,2,2,18,1,0,0,0,0,0,Upper Portion,351.69
+Gulberg III-V,9.8,4,3,8,1,0,0,0,0,0,Lower Portion,1419.57
+Allama Iqbal Town,10.4,5,4,35,1,1,0,0,0,0,House,881.13
+Johar Town,13.5,4,3,35,0,1,0,0,0,0,Upper Portion,1694.73
+Iqbal Town,10.2,4,4,12,1,1,1,0,0,0,Upper Portion,782.89
+DHA Phase 4-6,14.2,4,4,12,1,1,1,0,0,1,House,2187.15
+Garden Town,14.3,4,3,35,1,1,1,0,0,0,House,2393.3
+Bahria Town,20.5,7,7,3,1,1,0,0,0,1,House,2527.01
+Valencia,7.5,3,2,5,1,0,1,1,1,1,Lower Portion,974.98
+DHA Phase 7-9,9.6,3,3,2,1,1,0,0,0,1,Lower Portion,1266.7
+Wapda Town,20.3,7,7,25,1,1,0,0,0,0,House,2207.34
+Faisal Town,40.1,6,5,18,1,1,0,0,1,0,House,4221.65
+Gulberg I-II,20.1,6,6,1,1,0,1,0,0,0,House,3235.71
+DHA Phase 4-6,9.6,3,2,35,0,0,0,0,1,1,Lower Portion,1520.23
+DHA Phase 1-3,7.2,4,4,18,0,0,0,0,0,1,House,1299.25
+Garden Town,10.5,5,4,25,1,1,0,0,0,0,Upper Portion,1427.48
+Valencia,14.4,5,4,0,1,1,0,1,0,1,House,2094.06
+Lake City,9.9,3,2,8,1,0,0,1,0,1,Lower Portion,1284.9
+Gulberg I-II,9.5,3,2,18,1,0,0,0,0,0,Upper Portion,1751.85
+Johar Town,19.9,4,3,12,1,1,0,1,1,0,House,2640.55
+Valencia,10.3,5,4,18,1,1,1,0,0,1,Upper Portion,1197.48
+Bahria Town,20.2,6,6,25,1,1,0,0,1,1,Upper Portion,2078.45
+Shahdara,10.0,4,3,5,0,0,0,0,0,0,Flat,555.99
+DHA Phase 7-9,6.6,4,4,25,1,0,0,0,0,1,Upper Portion,894.66
+Iqbal Town,9.9,3,2,2,0,0,0,0,0,0,Lower Portion,684.46
+Johar Town,14.0,4,4,3,1,1,0,1,0,0,House,1404.13
+Johar Town,5.4,3,2,0,0,0,1,0,0,0,Lower Portion,549.64
+Wapda Town,7.1,4,3,5,1,0,0,0,1,0,Lower Portion,614.66
+Iqbal Town,19.8,4,4,5,1,1,0,0,0,0,Upper Portion,1504.94
+Shahdara,7.0,3,2,25,1,0,0,0,1,0,House,334.6
+DHA Phase 4-6,9.6,4,3,18,1,0,0,0,0,1,House,1412.6
+DHA Phase 4-6,10.5,4,3,8,1,1,1,0,0,1,Upper Portion,1917.59
+Wapda Town,9.9,3,2,18,0,1,0,1,1,0,Lower Portion,691.04
+Valencia,14.0,5,5,0,0,1,1,0,1,1,House,1791.64
+Gulberg III-V,6.9,3,2,2,1,0,0,0,0,0,Upper Portion,1058.42
+DHA Phase 4-6,10.2,4,4,12,1,1,0,0,0,1,House,1724.71
+DHA Phase 4-6,10.2,4,3,12,1,0,0,0,0,1,Upper Portion,1917.77
+Samanabad,14.2,5,4,25,1,0,0,1,0,0,Upper Portion,721.98
+DHA Phase 7-9,4.8,3,2,8,1,0,0,0,0,1,Upper Portion,601.6
+Model Town,9.8,4,3,18,0,0,0,0,0,0,Flat,1225.5
+Gulberg I-II,6.6,3,3,18,1,0,1,0,0,0,Lower Portion,1212.17
+Model Town,7.2,3,2,35,0,0,0,0,0,0,House,935.62
+DHA Phase 4-6,6.5,4,3,2,1,0,0,0,0,1,House,1447.94
+Bahria Town,7.1,4,3,12,0,0,0,0,1,1,Upper Portion,745.49
+DHA Phase 4-6,20.4,5,5,12,1,1,0,0,0,1,House,2840.9
+Allama Iqbal Town,7.4,3,3,35,1,1,0,0,1,0,Lower Portion,609.71
+Gulberg I-II,19.9,4,4,2,0,0,0,0,0,0,House,2833.1
+Lake City,40.0,5,5,12,1,1,1,0,0,1,House,4628.41
+Faisal Town,9.6,4,3,5,0,0,0,0,0,0,Flat,676.49
+Garden Town,5.2,3,2,12,1,0,0,0,1,0,House,512.34
+Lake City,10.3,4,4,3,1,0,0,0,0,1,House,1113.48
+Model Town,19.7,5,4,0,1,1,1,0,0,0,Upper Portion,2926.96
+Model Town,9.9,4,3,12,0,0,0,0,1,0,Flat,1118.59
+Iqbal Town,5.3,4,4,5,0,1,1,0,0,0,Lower Portion,508.51
+Shahdara,10.4,4,3,2,1,1,0,1,0,0,House,617.99
+Iqbal Town,19.7,4,4,5,0,0,1,1,1,0,Upper Portion,1474.3
+Lake City,20.1,5,5,0,1,1,0,0,0,1,House,2144.99
+Wapda Town,6.7,3,3,35,1,0,1,0,0,0,House,749.84
+Bahria Town,13.6,4,4,12,1,1,0,1,0,1,House,1743.25
+DHA Phase 4-6,7.4,3,3,25,0,0,0,0,1,1,House,1208.65
+Lake City,7.3,3,3,8,0,0,1,0,0,1,Flat,859.11
+Township,20.3,6,5,35,1,1,1,0,1,0,House,1098.45
+DHA Phase 7-9,6.5,3,2,8,0,0,1,1,0,1,Upper Portion,1041.07
+Iqbal Town,7.3,3,2,12,0,1,0,1,1,0,Upper Portion,740.85
+Gulberg I-II,4.9,3,3,8,1,0,0,0,0,0,Upper Portion,858.81
+Lake City,19.8,4,4,18,1,0,0,1,0,1,House,2218.37
+DHA Phase 4-6,20.0,7,7,12,0,0,0,0,1,1,Upper Portion,2941.93
+Bahria Town,13.6,4,3,3,1,0,1,1,1,1,House,1379.23
+Wapda Town,14.3,5,4,1,0,0,0,0,0,0,House,1294.58
+Model Town,7.1,4,4,12,1,0,0,0,1,0,Upper Portion,941.73
+Iqbal Town,9.7,3,3,8,0,0,0,0,0,0,House,953.33
+Allama Iqbal Town,9.7,4,4,1,0,0,0,1,0,0,Upper Portion,819.92
+Township,4.7,3,3,5,1,1,0,0,0,0,Upper Portion,291.63
+Gulberg I-II,9.6,3,3,8,0,0,0,0,0,0,Flat,1853.88
+Johar Town,20.1,6,5,25,1,0,0,1,0,0,House,1803.77
+DHA Phase 7-9,5.3,3,3,0,0,0,1,0,1,1,House,898.05
+Shahdara,6.5,3,3,5,0,0,0,0,0,0,House,296.93
+Township,6.5,3,3,25,0,1,1,0,0,0,House,451.85
+Lake City,7.1,3,3,12,0,0,0,1,0,1,Flat,790.3
+Faisal Town,20.3,5,4,3,1,1,0,1,0,0,Upper Portion,1262.26
+Bahria Town,9.8,3,3,25,0,1,1,0,0,1,Lower Portion,1193.5
+Garden Town,9.8,3,3,8,1,1,1,0,0,0,Upper Portion,1380.68
+DHA Phase 4-6,14.1,4,4,8,1,1,0,0,1,1,House,2266.29
+Wapda Town,6.8,4,3,35,0,0,1,0,0,0,House,602.84
+DHA Phase 4-6,9.5,4,4,35,1,1,0,0,0,1,House,1571.89
+Allama Iqbal Town,10.2,4,3,5,1,1,1,1,0,0,House,646.96
+Allama Iqbal Town,10.1,4,4,1,1,1,0,0,0,0,House,572.62
+Iqbal Town,40.1,6,6,5,1,1,0,1,0,0,House,4055.15
+DHA Phase 1-3,14.2,4,4,0,1,1,1,0,0,1,House,2450.11
+Gulberg III-V,10.2,4,4,0,1,1,0,1,0,0,House,1903.71
+Gulberg III-V,19.7,4,4,5,0,1,0,1,1,0,House,3387.89
+Model Town,6.9,3,3,35,0,0,0,0,0,0,House,1042.31
+DHA Phase 4-6,4.6,3,3,25,0,0,0,0,0,1,House,722.12
+Township,6.6,4,4,8,0,0,1,1,1,0,House,373.88
+Lake City,7.2,4,4,12,0,1,1,0,0,1,Upper Portion,704.64
+Gulberg III-V,10.4,5,4,0,1,1,0,0,0,0,Upper Portion,1453.97
+Johar Town,14.5,4,3,2,1,1,1,1,0,0,House,1090.07
+Bahria Town,20.1,5,4,0,0,1,0,1,1,1,House,2226.47
+Valencia,9.7,4,3,18,1,0,0,0,0,1,Flat,1149.53
+Bahria Town,9.6,3,3,1,0,0,0,0,1,1,House,963.7
+Samanabad,5.3,3,3,25,0,0,0,0,0,0,Flat,255.81
+Bahria Town,5.1,3,2,12,0,0,0,0,0,1,Lower Portion,542.45
+Shahdara,10.1,5,4,3,1,0,0,0,0,0,House,553.58
+Faisal Town,10.3,4,3,2,1,0,1,0,0,0,House,786.78
+Gulberg I-II,20.2,5,4,12,1,0,0,0,0,0,House,3593.1
+Township,7.3,3,3,35,0,0,0,0,0,0,House,398.16
+DHA Phase 4-6,4.6,3,2,18,0,0,1,0,0,1,House,801.87
+Allama Iqbal Town,10.2,4,4,5,0,1,0,0,1,0,House,736.67
+Johar Town,7.4,3,3,12,1,1,0,1,1,0,House,671.75
+Faisal Town,4.8,3,3,5,0,0,0,0,1,0,Upper Portion,465.56
+Faisal Town,14.1,4,3,35,1,1,1,0,0,0,House,1228.87
+Allama Iqbal Town,4.8,3,2,18,0,0,0,0,0,0,House,393.6
+Allama Iqbal Town,14.5,4,4,12,1,0,0,0,0,0,Upper Portion,1042.18
+Gulberg III-V,6.5,4,3,8,0,1,0,0,1,0,Upper Portion,942.36
+DHA Phase 4-6,7.1,4,3,12,0,0,0,0,0,1,Flat,1259.5
+Johar Town,9.7,3,3,5,0,1,1,0,1,0,Upper Portion,768.91
+DHA Phase 7-9,20.2,5,5,0,1,1,0,0,0,1,Upper Portion,2354.09
+Iqbal Town,9.7,3,2,5,0,1,0,0,0,0,House,772.35
+Model Town,13.7,4,4,35,1,1,0,0,1,0,House,1722.71
+Shahdara,5.0,3,2,12,0,0,1,0,0,0,House,235.45
+Garden Town,14.4,4,3,1,1,1,0,0,0,0,House,1924.64
+Allama Iqbal Town,6.7,4,4,25,1,0,1,0,0,0,Upper Portion,504.27
+DHA Phase 7-9,13.6,5,5,3,1,1,0,1,0,1,House,2234.21
+Faisal Town,10.3,4,3,3,1,1,0,0,0,0,House,1125.28
+Samanabad,20.0,6,6,3,1,1,0,0,0,0,House,1076.3
+Bahria Town,10.4,5,4,12,1,1,1,0,0,1,House,1289.91
+Valencia,4.6,2,2,12,0,0,1,0,0,1,House,612.16
+Wapda Town,5.1,4,3,8,1,0,0,0,0,0,Lower Portion,467.48
+DHA Phase 7-9,19.7,4,4,18,1,1,0,0,0,1,House,2300.92
+Bahria Town,9.7,3,2,5,0,0,0,0,1,1,House,1010.59
+Johar Town,14.2,5,4,25,1,0,0,0,0,0,House,1461.36
+DHA Phase 7-9,7.1,4,4,2,0,0,0,1,1,1,Upper Portion,893.81
+Model Town,7.3,3,2,25,0,0,0,0,1,0,Lower Portion,918.86
+DHA Phase 4-6,4.8,3,2,18,1,0,0,1,1,1,House,844.84
+DHA Phase 1-3,39.9,7,6,18,0,1,1,0,1,1,House,7527.35
+DHA Phase 7-9,13.9,5,4,8,1,1,0,0,1,1,Upper Portion,1676.19
+Shahdara,20.5,5,4,18,1,0,0,0,1,0,Upper Portion,980.2
+Lake City,6.8,4,4,0,0,0,0,1,0,1,Upper Portion,700.58
+Shahdara,13.8,4,3,25,1,0,1,0,0,0,House,685.13
+Johar Town,13.9,4,3,0,1,1,0,0,1,0,House,1665.43
+Model Town,7.1,4,3,1,1,0,0,0,0,0,Lower Portion,957.99
+Bahria Town,19.8,4,4,12,1,0,0,0,1,1,House,2361.45
+Johar Town,20.4,5,5,18,1,0,0,0,1,0,House,2257.06
+DHA Phase 4-6,19.8,5,4,0,1,0,0,0,0,1,House,2758.26
+Garden Town,14.4,5,4,35,1,0,0,0,0,0,House,2171.75
+Gulberg I-II,6.6,3,3,35,0,0,0,0,0,0,Upper Portion,936.63
+Valencia,7.2,3,3,12,0,0,1,0,0,1,Upper Portion,971.03
+Garden Town,40.4,6,5,8,1,0,1,0,0,0,House,5542.14
+DHA Phase 7-9,4.7,2,2,18,0,0,1,0,0,1,Flat,567.09
+DHA Phase 4-6,14.5,4,3,5,1,1,0,1,0,1,House,2769.71
+Allama Iqbal Town,14.0,5,4,8,0,1,0,0,0,0,House,1118.69
+Bahria Town,14.4,4,3,35,1,1,0,0,0,1,House,2019.0
+DHA Phase 4-6,40.2,5,5,35,1,1,1,0,1,1,House,6782.04
+Shahdara,6.8,3,2,35,0,0,1,1,0,0,Lower Portion,282.25
+DHA Phase 4-6,6.7,3,2,3,0,1,1,0,1,1,House,1114.94
+Iqbal Town,4.8,3,3,3,1,0,1,0,0,0,House,375.96
+Shahdara,9.6,3,2,3,1,0,1,0,0,0,Flat,462.61
+Gulberg I-II,6.6,4,3,8,0,0,0,1,0,0,Lower Portion,1095.31
+DHA Phase 7-9,6.6,4,3,5,0,0,0,0,0,1,Upper Portion,926.35
+DHA Phase 4-6,19.9,5,5,5,1,1,0,0,0,1,House,2777.89
+Gulberg III-V,20.3,5,5,12,0,0,0,0,1,0,House,2876.33
+DHA Phase 4-6,6.6,4,3,18,0,0,0,0,0,1,Lower Portion,1153.85
+Iqbal Town,9.6,3,3,18,1,1,0,0,0,0,Lower Portion,865.67
+DHA Phase 4-6,20.1,7,6,25,1,0,0,1,0,1,House,2634.83
+Bahria Town,4.7,2,2,0,1,0,0,0,0,1,Lower Portion,585.82
+Shahdara,4.6,3,3,0,1,0,1,0,0,0,House,274.81
+Allama Iqbal Town,6.7,3,3,25,1,0,1,0,0,0,House,501.79
+Valencia,10.4,4,3,12,1,1,1,1,0,1,House,965.93
+Gulberg III-V,7.3,3,3,12,0,0,0,0,0,0,House,1259.38
+Garden Town,39.9,5,5,0,0,1,1,1,0,0,House,5148.95
+Bahria Town,10.2,4,4,3,1,1,0,0,0,1,House,999.65
+Johar Town,10.0,4,3,12,0,1,1,1,0,0,House,1110.48
+DHA Phase 4-6,7.2,4,3,25,0,0,0,0,0,1,Lower Portion,1203.56
+Faisal Town,10.2,5,5,35,0,1,1,1,0,0,House,988.17
+Bahria Town,14.1,5,4,8,1,1,0,0,0,1,House,1602.38
+DHA Phase 7-9,13.8,5,4,12,1,1,1,0,0,1,Upper Portion,1879.29
+Model Town,13.5,5,5,25,0,1,1,0,0,0,House,1677.37
+Johar Town,10.0,4,3,12,1,0,0,0,0,0,Upper Portion,1055.32
+Allama Iqbal Town,20.4,5,5,8,1,0,0,0,0,0,House,1382.49
+Wapda Town,20.1,5,4,35,1,1,1,0,1,0,House,1688.21
+Wapda Town,14.3,4,3,25,1,0,0,1,0,0,House,1342.73
+DHA Phase 1-3,5.5,4,4,35,0,0,0,0,0,1,House,877.61
+Johar Town,4.7,3,2,2,1,0,0,0,0,0,Upper Portion,561.2
+Bahria Town,7.2,4,4,12,0,0,0,0,0,1,Flat,1032.66
+DHA Phase 1-3,14.2,4,3,25,1,1,0,1,0,1,House,2523.93
+Gulberg III-V,10.5,4,3,1,1,1,1,0,0,0,House,1324.72
+Wapda Town,10.5,4,3,25,1,1,0,0,0,0,House,1028.62
+DHA Phase 7-9,20.2,5,5,2,1,1,0,0,1,1,House,2593.99
+Lake City,19.7,4,3,25,1,0,0,0,0,1,House,2404.96
+Gulberg I-II,20.3,5,4,12,1,1,0,0,0,0,House,3167.09
+DHA Phase 1-3,6.6,3,3,2,1,0,0,0,0,1,Upper Portion,1335.38
+Gulberg I-II,14.3,4,4,8,1,0,0,1,1,0,House,2539.71
+Shahdara,7.4,3,2,18,0,0,0,0,0,0,Upper Portion,288.67
+Allama Iqbal Town,6.9,3,3,12,1,1,0,0,0,0,Flat,533.05
+Township,7.1,3,3,8,1,0,0,0,0,0,Lower Portion,426.66
+Bahria Town,6.9,4,4,25,1,0,0,1,0,1,Flat,838.93
+DHA Phase 4-6,9.9,3,3,8,0,0,1,1,0,1,Upper Portion,1706.58
+Lake City,19.8,4,3,8,1,1,0,0,0,1,House,1925.07
+Bahria Town,5.3,4,4,0,1,0,0,0,0,1,Flat,748.88
+Faisal Town,14.4,4,3,35,1,1,0,0,0,0,House,1289.11
+DHA Phase 4-6,10.4,4,3,2,1,1,0,0,0,1,Upper Portion,1678.63
+Bahria Town,6.7,4,3,12,1,0,0,0,0,1,House,799.46
+DHA Phase 7-9,10.4,4,4,25,0,1,0,0,0,1,House,1641.35
+Model Town,7.2,3,3,2,0,0,0,0,1,0,Flat,837.07
+Wapda Town,9.8,4,3,12,0,0,1,1,1,0,House,1044.1
+Bahria Town,9.6,4,3,3,1,0,1,0,0,1,House,1086.61
+Johar Town,6.8,4,4,18,0,0,0,0,0,0,House,831.01
+Johar Town,5.4,3,3,12,0,1,0,0,0,0,Upper Portion,532.72
+Bahria Town,10.1,4,3,25,1,1,0,0,0,1,Upper Portion,1328.79
+Allama Iqbal Town,20.2,7,7,25,1,1,0,1,0,0,House,1407.76
+Samanabad,6.8,3,3,12,0,0,0,0,0,0,House,353.92
+Township,14.2,4,3,18,1,1,0,1,0,0,House,831.57
+Allama Iqbal Town,13.5,5,5,12,1,0,0,1,1,0,House,1099.87
+Model Town,19.9,4,4,5,1,0,0,0,0,0,Upper Portion,2453.13
+Iqbal Town,20.1,5,4,12,1,1,0,0,0,0,House,1928.57
+Johar Town,9.6,4,4,35,0,0,0,0,0,0,Lower Portion,867.57
+Gulberg III-V,14.3,5,4,8,1,0,0,0,0,0,Upper Portion,1561.37
+Faisal Town,19.7,5,5,5,1,0,0,0,0,0,Upper Portion,1686.77
+DHA Phase 1-3,10.2,4,3,5,1,0,0,0,0,1,House,1727.58
+Samanabad,6.9,3,3,8,1,1,1,0,0,0,Lower Portion,407.47
+Bahria Town,5.1,4,3,0,1,1,1,0,0,1,House,812.8
+Garden Town,19.6,5,5,8,1,0,1,1,1,0,House,3088.26
+Garden Town,19.5,5,5,8,0,1,1,0,0,0,House,2321.15
+Samanabad,5.4,4,4,12,0,1,1,0,1,0,House,419.67
+Garden Town,9.8,3,2,5,1,0,0,0,0,0,House,1165.34
+Valencia,10.3,4,4,12,0,0,0,0,0,1,Upper Portion,1198.67
+DHA Phase 4-6,5.5,4,3,25,0,0,0,0,1,1,House,876.44
+Bahria Town,39.7,6,6,35,1,0,0,1,0,1,Upper Portion,3532.07
+DHA Phase 7-9,6.8,3,3,12,0,1,0,0,0,1,House,951.2
+Wapda Town,5.2,4,4,0,0,0,0,0,0,0,Lower Portion,488.14
+Bahria Town,10.5,5,5,35,1,1,0,0,1,1,House,1136.41
+Iqbal Town,14.4,4,4,18,0,1,0,0,0,0,House,1416.71
+DHA Phase 1-3,5.0,4,4,5,1,0,0,0,1,1,Lower Portion,911.68
+DHA Phase 4-6,14.3,5,4,1,1,0,0,0,0,1,House,2240.92
+Iqbal Town,9.6,4,3,1,0,0,0,0,0,0,House,914.04
+DHA Phase 4-6,5.5,4,4,2,0,0,1,0,1,1,Lower Portion,775.02
+DHA Phase 4-6,7.5,3,3,0,0,0,0,0,0,1,Upper Portion,1388.17
+DHA Phase 1-3,9.7,4,4,35,0,0,1,0,1,1,Lower Portion,1684.86
+Township,6.8,4,4,12,0,0,1,0,0,0,Lower Portion,424.74
+Wapda Town,19.6,4,4,18,1,0,0,0,0,0,House,2105.5
+Model Town,19.8,4,3,25,1,1,0,0,0,0,House,2804.92
+Gulberg III-V,40.3,5,5,25,1,1,0,0,0,0,House,5250.83
+Model Town,6.9,4,4,25,1,0,0,0,0,0,Flat,768.04
+Allama Iqbal Town,39.6,5,4,35,1,1,0,0,0,0,House,2370.37
+Iqbal Town,9.8,4,3,8,0,0,0,0,1,0,Upper Portion,960.99
+DHA Phase 7-9,7.5,4,3,35,1,0,1,0,0,1,House,1015.38
+DHA Phase 7-9,5.1,4,4,18,1,0,0,0,1,1,Lower Portion,648.61
+DHA Phase 4-6,4.9,2,2,0,0,0,0,0,0,1,Upper Portion,811.8
+Garden Town,13.7,5,5,18,1,1,0,1,0,0,House,2006.1
+Wapda Town,10.5,5,5,18,0,1,1,0,1,0,House,1130.89
+Gulberg III-V,7.3,3,3,35,1,1,1,0,0,0,House,1135.13
+DHA Phase 1-3,13.8,4,3,5,1,1,0,0,1,1,Upper Portion,2782.58
+DHA Phase 4-6,6.6,4,4,12,0,1,0,0,0,1,Flat,1145.89
+Shahdara,9.6,4,4,0,1,0,0,0,1,0,House,532.45
+Gulberg III-V,9.6,4,4,5,1,0,0,0,0,0,Lower Portion,1421.95
+Wapda Town,20.1,5,4,0,1,1,1,0,1,0,House,1944.34
+Garden Town,20.4,6,6,12,1,1,0,0,0,0,House,2843.72
+Johar Town,10.0,3,3,25,1,0,0,0,0,0,House,1034.15
+Gulberg I-II,10.3,5,5,2,0,0,1,0,0,0,House,1636.56
+DHA Phase 4-6,9.9,4,4,12,1,1,0,1,0,1,Lower Portion,1786.84
+Valencia,20.2,7,6,2,1,0,0,0,0,1,House,2566.35
+Allama Iqbal Town,7.2,3,2,1,0,0,0,0,1,0,Lower Portion,549.11
+Garden Town,6.7,3,2,8,0,0,1,0,0,0,Upper Portion,825.78
+Lake City,4.9,3,3,0,0,0,0,0,1,1,House,643.7
+DHA Phase 1-3,10.1,4,3,12,1,0,0,0,1,1,House,1916.76
+Shahdara,9.6,4,3,0,0,0,0,1,1,0,Flat,542.85
+Allama Iqbal Town,19.9,4,4,1,0,1,1,0,0,0,House,1418.4
+Gulberg III-V,7.0,4,4,12,0,0,0,0,1,0,Upper Portion,974.48
+Shahdara,10.5,4,3,12,0,0,0,1,0,0,House,569.98
+Valencia,20.0,5,4,0,1,1,0,0,0,1,House,2354.4
+Valencia,20.3,6,5,12,1,0,0,0,0,1,House,3132.62
+Wapda Town,9.9,4,3,25,0,0,0,0,0,0,House,975.4
+Allama Iqbal Town,10.3,4,4,18,1,1,1,0,0,0,House,808.6
+Garden Town,7.1,3,3,1,0,0,0,1,0,0,House,1031.15
+DHA Phase 4-6,20.4,7,6,12,1,1,1,0,1,1,House,3267.79
+Model Town,4.9,3,2,18,1,0,1,0,0,0,Flat,733.57
+Township,20.1,5,4,0,0,0,0,0,0,0,House,1296.54
+Gulberg I-II,14.1,4,4,25,1,1,1,0,0,0,House,2815.63
+Johar Town,9.9,4,4,35,0,1,0,0,1,0,Lower Portion,888.8
+Johar Town,4.6,3,3,25,0,0,0,0,1,0,House,397.9
+Johar Town,9.6,3,2,25,0,0,0,0,0,0,Lower Portion,817.3
+Valencia,9.5,4,4,18,0,0,0,0,1,1,House,1140.56
+Township,7.4,3,2,12,0,0,0,1,0,0,Flat,514.09
+Gulberg I-II,13.7,4,3,18,0,0,1,0,1,0,House,2998.64
+DHA Phase 4-6,39.7,6,6,25,1,0,0,0,0,1,Upper Portion,6777.81
+DHA Phase 7-9,10.2,5,4,18,1,1,1,1,0,1,House,1465.33
+Samanabad,13.8,4,4,5,0,1,0,1,0,0,House,850.69
+Garden Town,5.0,4,4,5,0,0,0,0,1,0,Upper Portion,708.55
+Gulberg III-V,9.7,4,3,25,0,0,0,0,0,0,Upper Portion,1718.74
+Allama Iqbal Town,5.5,4,3,0,1,0,1,0,0,0,House,573.6
+Faisal Town,14.4,5,5,18,1,1,1,0,0,0,House,1366.62
+Faisal Town,20.4,5,5,35,1,0,0,0,0,0,House,1833.69
+Samanabad,13.9,4,4,18,1,0,0,0,1,0,House,951.99
+Gulberg III-V,5.3,3,3,35,0,0,0,0,0,0,Upper Portion,704.99
+Wapda Town,9.6,3,3,18,1,0,0,0,0,0,Upper Portion,797.29
+Bahria Town,9.5,4,4,0,0,0,1,1,0,1,House,1174.76
+Faisal Town,9.5,3,3,25,1,0,1,0,0,0,Upper Portion,787.02
+Wapda Town,20.1,5,4,3,1,1,0,0,0,0,House,1575.49
+Allama Iqbal Town,20.0,5,5,8,1,1,0,1,0,0,House,1501.73
+Garden Town,14.0,4,3,5,1,1,1,0,0,0,House,1635.76
+DHA Phase 7-9,9.5,4,3,3,1,0,0,0,1,1,House,1497.94
+Lake City,6.9,4,4,8,1,0,0,0,1,1,House,763.07
+Shahdara,5.2,4,4,5,0,1,1,0,0,0,House,324.21
+Township,9.9,3,3,12,1,1,0,0,0,0,House,545.32
+DHA Phase 1-3,10.2,4,4,25,1,0,0,0,0,1,House,2290.21
+DHA Phase 7-9,13.7,4,4,3,1,0,0,0,1,1,Upper Portion,1480.23
+DHA Phase 4-6,14.3,5,4,2,1,0,0,0,0,1,Upper Portion,2534.81
+Wapda Town,5.1,3,2,18,0,0,1,0,0,0,House,414.94
+Allama Iqbal Town,9.7,3,3,18,1,0,0,0,0,0,Upper Portion,649.07
+Gulberg I-II,6.7,4,4,35,1,0,0,0,1,0,House,1193.83
+Bahria Town,7.1,3,3,0,0,1,0,1,0,1,Lower Portion,867.44
+Faisal Town,20.3,7,7,25,1,1,0,0,0,0,House,1710.02
+Wapda Town,4.9,3,2,12,0,1,0,1,1,0,Upper Portion,489.07
+Lake City,9.8,3,2,12,0,0,0,0,0,1,House,979.15
+Valencia,7.4,3,2,1,1,0,1,0,0,1,Upper Portion,911.14
+Bahria Town,20.2,5,5,8,0,1,0,1,0,1,House,2355.61
+Gulberg III-V,9.9,4,4,3,1,0,0,0,0,0,Flat,1499.42
+Lake City,7.0,4,4,3,1,0,0,1,0,1,Lower Portion,787.98
+Iqbal Town,9.7,3,2,8,1,0,0,0,1,0,Upper Portion,912.47
+Faisal Town,14.1,4,3,25,1,1,0,1,1,0,House,1186.54
+Garden Town,19.9,4,3,18,1,0,0,1,0,0,Upper Portion,2542.53
+Wapda Town,7.5,4,4,12,1,0,0,0,1,0,House,708.98
+DHA Phase 7-9,20.0,5,4,12,1,0,0,0,0,1,House,2345.4
+Bahria Town,20.0,4,4,8,1,1,0,1,0,1,House,2371.48
+DHA Phase 1-3,20.1,6,5,35,1,0,0,0,1,1,Upper Portion,4235.52
+Gulberg III-V,14.4,4,4,12,1,1,1,1,0,0,House,2280.94
+Wapda Town,14.3,4,4,3,0,0,0,0,0,0,Upper Portion,1189.49
+Shahdara,10.0,3,3,3,1,0,0,0,0,0,House,551.38
+DHA Phase 4-6,14.2,5,5,12,1,0,0,0,0,1,House,2305.92
+Johar Town,10.1,4,3,12,1,1,1,0,0,0,House,1148.09
+Allama Iqbal Town,14.0,4,3,0,1,1,0,1,0,0,House,1048.89
+Gulberg I-II,9.7,4,3,25,0,0,1,0,0,0,Upper Portion,1706.93
+Lake City,14.0,4,4,18,1,1,0,1,1,1,House,1471.61
+Wapda Town,19.7,4,3,18,1,1,1,0,1,0,House,1763.0
+Valencia,5.4,4,4,0,0,0,0,0,1,1,Lower Portion,550.19
+DHA Phase 7-9,19.8,5,4,5,1,1,1,0,0,1,House,2872.39
+Model Town,10.5,5,4,35,1,1,1,1,0,0,House,1500.1
+Allama Iqbal Town,20.0,5,5,25,1,1,0,1,1,0,House,1599.74
+Lake City,10.1,4,4,3,1,0,1,0,0,1,House,1204.71
+DHA Phase 1-3,10.0,5,5,2,1,1,0,0,1,1,House,1777.83
+Wapda Town,19.6,5,4,8,0,1,0,1,1,0,House,2099.33
+DHA Phase 1-3,6.9,4,4,5,0,0,0,1,0,1,Flat,1489.45
+Wapda Town,19.6,5,4,18,1,0,1,0,0,0,House,1676.39
+Gulberg I-II,10.1,5,4,35,1,0,0,0,0,0,House,1843.96
+Township,9.9,4,3,5,0,0,0,0,0,0,House,650.92
+Johar Town,7.3,3,3,0,0,0,0,0,0,0,Lower Portion,659.19
+Model Town,9.7,3,2,25,0,0,0,0,0,0,House,1215.39
+DHA Phase 7-9,6.7,3,3,0,1,1,1,0,0,1,Flat,1021.95
+Gulberg III-V,4.9,3,3,35,0,0,0,0,0,0,House,563.39
+Faisal Town,7.4,4,3,18,0,0,0,1,0,0,Lower Portion,499.26
+Shahdara,5.2,3,2,35,0,0,0,1,0,0,Upper Portion,188.21
+Johar Town,39.9,7,6,2,1,1,0,1,0,0,Upper Portion,3133.92
+Bahria Town,40.0,5,4,0,1,1,0,0,0,1,House,5127.58
+Wapda Town,9.6,4,4,8,0,0,0,0,0,0,House,694.54
+Faisal Town,14.5,5,5,8,1,1,0,0,0,0,House,1257.53
+Valencia,7.2,3,3,5,0,0,0,0,1,1,House,1000.8
+Johar Town,13.8,4,4,35,1,1,0,0,0,0,House,1320.36
+Johar Town,20.1,5,5,25,0,1,0,0,0,0,House,1835.79
+Iqbal Town,19.6,5,5,18,1,0,0,0,0,0,House,1757.78
+DHA Phase 1-3,10.5,4,4,2,1,1,0,0,1,1,House,2021.23
+Valencia,19.7,4,4,18,1,1,1,1,0,1,House,2719.2
+Model Town,7.1,4,4,18,1,0,0,0,0,0,Lower Portion,629.29
+Allama Iqbal Town,39.7,6,5,8,1,0,0,1,0,0,House,2618.37
+DHA Phase 4-6,5.2,3,2,35,1,0,0,0,1,1,Lower Portion,892.71
+Valencia,14.3,4,4,2,1,1,1,0,0,1,House,1805.25
+Bahria Town,14.2,4,4,3,1,1,0,0,1,1,House,1832.33
+Garden Town,14.1,4,3,0,1,1,0,0,0,0,Upper Portion,1841.27
+DHA Phase 4-6,5.4,4,3,25,0,0,0,0,0,1,Lower Portion,851.78
+Valencia,19.6,5,4,12,1,1,0,0,0,1,House,2301.09
+Lake City,6.8,3,3,5,0,0,1,0,1,1,Upper Portion,989.84
+Lake City,13.7,4,3,2,1,1,0,0,0,1,House,1810.42
+Valencia,7.5,3,2,0,0,0,0,0,1,1,House,1008.71
+Iqbal Town,6.9,3,2,2,1,1,0,0,1,0,House,656.28
+Allama Iqbal Town,10.2,4,3,8,1,1,0,0,0,0,House,842.75
+Gulberg III-V,10.2,5,4,3,1,1,1,0,0,0,House,1711.39
+Allama Iqbal Town,6.7,4,4,3,0,1,0,0,0,0,Flat,543.42
+Bahria Town,6.7,4,3,25,1,1,1,1,0,1,House,777.14
+DHA Phase 4-6,9.8,4,4,8,0,0,0,1,0,1,House,2045.17
+DHA Phase 4-6,13.9,4,3,18,1,0,0,1,1,1,House,2432.36
+Model Town,19.7,4,3,0,1,0,0,1,1,0,House,3308.39
+Allama Iqbal Town,4.5,3,2,5,0,0,0,0,1,0,Lower Portion,318.65
+Iqbal Town,10.4,5,4,8,0,1,0,0,0,0,House,907.49
+Allama Iqbal Town,5.5,3,2,2,0,0,0,0,1,0,Lower Portion,447.54
+Bahria Town,4.8,2,2,1,0,0,0,0,1,1,Lower Portion,571.43
+Johar Town,13.8,4,4,25,1,0,0,1,0,0,House,1426.23
+DHA Phase 7-9,13.5,4,4,35,1,1,1,0,1,1,House,1577.03
+Model Town,7.2,4,4,0,0,0,0,1,1,0,House,1103.44
+Johar Town,7.3,3,3,5,0,0,0,0,1,0,House,712.87
+DHA Phase 4-6,4.6,3,3,35,0,0,0,1,1,1,Upper Portion,736.74
+Gulberg I-II,19.7,4,4,1,1,0,0,0,0,0,House,3188.55
+Valencia,40.3,7,6,12,0,0,0,0,0,1,House,5065.45
+Wapda Town,5.1,3,3,35,0,0,0,0,1,0,House,378.58
+Shahdara,6.5,3,2,35,1,0,1,0,1,0,Upper Portion,288.79
+Township,20.1,6,5,8,0,0,0,0,0,0,House,1310.73
+Garden Town,19.8,5,5,2,1,1,1,0,0,0,Upper Portion,2146.2
+Johar Town,9.9,4,3,2,0,0,1,0,0,0,Upper Portion,1016.87
+Garden Town,5.3,4,3,25,1,0,1,0,0,0,Lower Portion,596.42
+Allama Iqbal Town,5.3,3,3,35,0,0,0,0,1,0,Lower Portion,312.33
+DHA Phase 4-6,9.9,4,3,12,0,0,0,1,0,1,Flat,2005.06
+Johar Town,10.4,5,5,18,1,1,0,0,0,0,House,867.38
+Faisal Town,4.9,2,2,18,0,0,0,0,1,0,Lower Portion,375.28
+Johar Town,10.3,4,4,18,1,1,0,0,0,0,Upper Portion,962.92
+Lake City,5.0,3,2,25,0,0,1,0,0,1,House,529.06
+Valencia,20.4,6,6,18,1,1,1,0,1,1,House,2187.77
+DHA Phase 7-9,7.4,4,3,12,1,0,0,0,0,1,House,1130.83
+Model Town,4.6,2,2,3,1,0,0,0,0,0,House,618.33
+Model Town,10.4,4,3,18,1,1,1,0,1,0,House,1379.09
+DHA Phase 1-3,10.3,5,4,8,1,1,0,0,0,1,Upper Portion,1977.98
+DHA Phase 1-3,40.3,5,5,3,1,0,0,0,0,1,House,7286.52
+Allama Iqbal Town,9.7,4,3,25,1,0,0,1,1,0,House,573.83
+Gulberg III-V,7.3,4,4,18,0,0,1,0,0,0,Upper Portion,997.22
+Bahria Town,14.4,5,4,35,1,0,0,1,0,1,Upper Portion,1808.68
+Gulberg III-V,6.8,3,2,2,1,0,0,0,0,0,Lower Portion,792.05
+Township,20.5,5,5,12,0,1,0,1,0,0,House,1053.47
+Gulberg III-V,9.5,3,2,3,0,1,0,1,0,0,House,1356.89
+Johar Town,9.6,4,4,35,0,0,1,0,0,0,Lower Portion,831.1
+Faisal Town,5.0,4,3,1,1,0,0,0,0,0,House,451.91
+Faisal Town,10.1,4,3,18,1,1,0,0,0,0,Upper Portion,695.86
+DHA Phase 7-9,20.1,5,4,25,0,0,0,0,1,1,House,2558.48
+Allama Iqbal Town,19.5,4,3,5,1,0,0,0,0,0,House,1441.61
+Bahria Town,7.5,3,3,35,1,1,0,0,1,1,House,946.23
+Bahria Town,6.5,4,4,25,1,0,1,0,0,1,House,922.58
+DHA Phase 7-9,19.6,4,3,3,1,0,1,0,1,1,House,2589.2
+DHA Phase 4-6,19.5,4,3,0,1,1,0,0,0,1,Upper Portion,3977.79
+Wapda Town,5.1,3,3,3,0,0,1,0,0,0,House,504.21
+Bahria Town,10.4,4,3,3,1,1,1,0,1,1,House,1409.81
+Johar Town,7.2,3,3,25,0,0,0,0,0,0,Upper Portion,825.51
+Wapda Town,20.3,5,4,35,1,1,0,0,0,0,House,1913.32
+Wapda Town,4.5,3,2,0,1,0,1,0,0,0,House,400.64
+DHA Phase 7-9,7.0,3,3,8,1,1,0,0,1,1,Flat,1000.26
+Valencia,14.0,5,4,12,0,0,1,0,0,1,House,1598.64
+DHA Phase 7-9,5.0,2,2,1,0,1,1,1,0,1,Flat,715.02
+Wapda Town,9.6,3,3,5,0,0,0,1,0,0,Flat,1123.75
+Garden Town,10.2,4,4,5,1,1,1,0,0,0,House,1149.59
+Township,7.0,4,4,12,1,0,0,0,0,0,Lower Portion,399.84
+DHA Phase 4-6,10.3,4,4,18,1,1,0,0,0,1,Upper Portion,1537.13
+DHA Phase 4-6,10.0,3,3,18,1,0,0,0,0,1,Upper Portion,1588.71
+Gulberg III-V,6.6,3,2,1,0,0,1,0,1,0,Flat,1084.33
