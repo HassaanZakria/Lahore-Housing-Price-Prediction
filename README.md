@@ -92,10 +92,3 @@ print(f"Predicted Price: PKR {price:,.2f} Lakhs")
 
 ---
 
-## 📈 Next Steps
-
-- [ ] Collect real Zameen.com data via web scraping
-- [ ] Add more features (floor level, furnishing, utilities)
-- [ ] Build a Flask/Streamlit web app
-- [ ] Tune hyperparameters with GridSearchCV
-- [ ] Try deep learning (MLPRegressor or PyTorch)
