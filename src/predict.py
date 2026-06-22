@@ -15,7 +15,6 @@ VALID_AREAS = [
 ]
 
 VALID_TYPES = ["House", "Upper Portion", "Lower Portion", "Flat"]
-
 GATED = {"DHA Phase 1-3","DHA Phase 4-6","DHA Phase 7-9","Bahria Town","Lake City","Valencia"}
 
 
